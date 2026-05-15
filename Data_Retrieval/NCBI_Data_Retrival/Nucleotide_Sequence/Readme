@@ -1,30 +1,26 @@
-## Nucleotide Sequence Retrieval
+# Nucleotide Sequence Retrieval
 
-This repository section contains nucleotide sequence datasets retrieved from NCBI for practical bioinformatics analysis and computational biology workflows. Each folder represents an individual nucleotide record downloaded from the NCBI database in FASTA and GenBank formats for downstream sequence analysis.
-The dataset includes biologically important nucleotide sequences from bacterial, viral, plant, and human-related studies. These sequences are useful for understanding genetic organization, evolutionary relationships, molecular functions, and sequence-level variations across organisms.
-The retrieved nucleotide records can be applied in multiple bioinformatics tasks including sequence alignment, GC-content analysis, primer designing, ORF prediction, phylogenetic analysis, promoter identification, protein translation, and comparative genomics. The collection is designed to support hands-on learning and applied research in molecular biology and bioinformatics.
+This repository section contains nucleotide sequence datasets retrieved from NCBI for practical bioinformatics analysis and computational biology workflows.
 
-##Contents
+## Contents
+
 The folder currently contains:
 
--FASTA format nucleotide sequences
--GenBank annotation files
--Sequence-specific subdirectories
--NCBI accession-based organization structure
--Applications
+- FASTA format nucleotide sequences
+- GenBank annotation files
+- Sequence-specific subdirectories
+- NCBI accession-based organization structure
 
-## These nucleotide sequences can be utilized for:
+## Applications
 
--BLAST analysis
--Multiple sequence alignment
--Mutation and variant analysis
--Phylogenetic tree construction
--Gene annotation studies
--Comparative genomics
--Primer design workflows
--Structural and functional bioinformatics studies
--Data Source
+These nucleotide sequences can be utilized for:
 
-### All nucleotide sequences were retrieved from:
+- BLAST analysis
+- Multiple sequence alignment
+- Mutation and variant analysis
+- Phylogenetic tree construction
+- Gene annotation studies
 
--NCBI Nucleotide Database
+## Data Source
+
+NCBI Nucleotide Database
