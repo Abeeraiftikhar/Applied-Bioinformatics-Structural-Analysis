@@ -11,7 +11,7 @@ The retrieved protein records can be applied in multiple bioinformatics tasks in
 The folder currently contains:
 
 - FASTA format protein sequences
-- Annotated protein records
+- GenPept annotation files
 - Sequence-specific subdirectories
 - NCBI accession-based organization structure
 
