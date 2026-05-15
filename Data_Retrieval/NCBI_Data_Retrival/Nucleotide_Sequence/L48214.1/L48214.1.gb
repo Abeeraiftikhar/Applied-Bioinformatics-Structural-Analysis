@@ -1,0 +1,109 @@
+LOCUS       HUMHBB5E88              1832 bp    DNA     linear   PRI 14-FEB-1996
+DEFINITION  Homo sapiens beta-globin (HBB) gene, with c to a mutation 88 bp 5'
+            to exon 1, (J00179 bases 61971-63802).
+ACCESSION   L48214
+VERSION     L48214.1
+KEYWORDS    beta-globin; mutation.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (sites)
+  AUTHORS   Rund,D., Cohen,T., Filon,D., Dowling,C.E., Warren,T.C., Barak,I.,
+            Rachmilewitz,E., Kazazian,H.H. Jr. and Oppenheim,A.
+  TITLE     Evolution of a genetic disease in an ethnic isolate:
+            beta-thalassemia in the Jews of Kurdistan
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 88 (1), 310-314 (1991)
+   PUBMED   1986379
+COMMENT     Original source text: Homo sapiens (individual_isolate Kurdish Jew)
+            (clone: 51) DNA.
+FEATURES             Location/Qualifiers
+     source          1..1832
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="Kurdish Jew"
+                     /db_xref="taxon:9606"
+                     /map="11p15.5"
+                     /clone="51"
+     primer_bind     complement(1..20)
+     gene            74..1772
+                     /gene="HBB"
+     regulatory      74..81
+                     /regulatory_class="promoter"
+                     /gene="HBB"
+                     /note="G00-119-297"
+     variation       79
+                     /gene="HBB"
+                     /note="c in wt/a in allele; in the ccacaccc promoter;
+                     G00-119-297"
+     exon            167..308
+                     /gene="HBB"
+                     /note="G00-119-297"
+                     /number=1
+     CDS             join(217..308,439..661,1512..1640)
+                     /gene="HBB"
+                     /codon_start=1
+                     /product="beta-globin"
+                     /protein_id="AAA88061.1"
+                     /db_xref="GDB:G00-119-297"
+                     /translation="MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPE
+                     NFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH"
+     CDS             join(217..308,420..438)
+                     /gene="HBB"
+                     /codon_start=1
+                     /product="beta-globin"
+                     /protein_id="AAA88060.1"
+                     /db_xref="GDB:G00-119-297"
+                     /translation="MVHLTPEEKSAVTALWGKVNVDEVGGEALGSLFSHP"
+     intron          309..438
+                     /gene="HBB"
+                     /note="G00-119-297"
+     exon            439..661
+                     /gene="HBB"
+                     /note="G00-119-297"
+                     /number=2
+     intron          662..1511
+                     /gene="HBB"
+                     /note="G00-119-297"
+                     /number=2
+     exon            1512..1772
+                     /gene="HBB"
+                     /note="G00-119-297"
+                     /number=3
+     primer_bind     1813..1832
+ORIGIN      
+        1 ccaactccta agccagtgcc agaagagcca aggacaggta cggctgtcat cacttagacc
+       61 tcaccctgtg gagccacaac ctagggttgg ccaatctact cccaggagca gggagggcag
+      121 gagccagggc tgggcataaa agtcagggca gagccatcta ttgcttacat ttgcttctga
+      181 cacaactgtg ttcactagca acctcaaaca gacaccatgg tgcacctgac tcctgaggag
+      241 aagtctgccg ttactgccct gtggggcaag gtgaacgtgg atgaagttgg tggtgaggcc
+      301 ctgggcaggt tggtatcaag gttacaagac aggtttaagg agaccaatag aaactgggca
+      361 tgtggagaca gagaagactc ttgggtttct gataggcact gactctctct gcctattggt
+      421 ctattttccc acccttaggc tgctggtggt ctacccttgg acccagaggt tctttgagtc
+      481 ctttggggat ctgtccactc ctgatgctgt tatgggcaac cctaaggtga aggctcatgg
+      541 caagaaagtg ctcggtgcct ttagtgatgg cctggctcac ctggacaacc tcaagggcac
+      601 ctttgccaca ctgagtgagc tgcactgtga caagctgcac gtggatcctg agaacttcag
+      661 ggtgagtcta tgggaccctt gatgttttct ttccccttct tttctatggt taagttcatg
+      721 tcataggaag gggagaagta acagggtaca gtttagaatg ggaaacagac gaatgattgc
+      781 atcagtgtgg aagtctcagg atcgttttag tttcttttat ttgctgttca taacaattgt
+      841 tttcttttgt ttaattcttg ctttcttttt ttttcttctc cgcaattttt actattatac
+      901 ttaatgcctt aacattgtgt ataacaaaag gaaatatctc tgagatacat taagtaactt
+      961 aaaaaaaaac tttacacagt ctgcctagta cattactatt tggaatatat gtgtgcttat
+     1021 ttgcatattc ataatctccc tactttattt tcttttattt ttaattgata cataatcatt
+     1081 atacatattt atgggttaaa gtgtaatgtt ttaatatgtg tacacatatt gaccaaatca
+     1141 gggtaatttt gcatttgtaa ttttaaaaaa tgctttcttc ttttaatata cttttttgtt
+     1201 tatcttattt ctaatacttt ccctaatctc tttctttcag ggcaataatg atacaatgta
+     1261 tcatgcctct ttgcaccatt ctaaagaata acagtgataa tttctgggtt aaggcaatag
+     1321 caatatttct gcatataaat atttctgcat ataaattgta actgatgtaa gaggtttcat
+     1381 attgctaata gcagctacaa tccagctacc attctgcttt tattttatgg ttgggataag
+     1441 gctggattat tctgagtcca agctaggccc ttttgctaat catgttcata cctcttatct
+     1501 tcctcccaca gctcctgggc aacgtgctgg tctgtgtgct ggcccatcac tttggcaaag
+     1561 aattcacccc accagtgcag gctgcctatc agaaagtggt ggctggtgtg gctaatgccc
+     1621 tggcccacaa gtatcactaa gctcgctttc ttgctgtcca atttctatta aaggttcctt
+     1681 tgttccctaa gtccaactac taaactgggg gatattatga agggccttga gcatctggat
+     1741 tctgcctaat aaaaaacatt tattttcatt gcaatgatgt atttaaatta tttctgaata
+     1801 ttttactaaa aagggaatgt gggaggtcag tg
+//
+
