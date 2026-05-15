@@ -1,0 +1,52 @@
+LOCUS       OP480806                 324 bp    mRNA    linear   PRI 14-OCT-2022
+DEFINITION  Homo sapiens clone 4L12 anti SARS-CoV-2 immunoglobulin light chain
+            mRNA, partial cds.
+ACCESSION   OP480806
+VERSION     OP480806.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 324)
+  AUTHORS   Wang,Y., Zhang,X., Ma,Y., Wang,Y., Zhan,W., Zheng,Q., Zhang,M.,
+            Ji,P., Liu,M., Liu,Q., Sun,T., Zhu,T., Wen,Y., Sun,L., Zhao,J.,
+            Wu,F., Chen,Z. and Huang,J.
+  TITLE     Combating the SARS-CoV-2 Omicron (BA.1) and BA.2 with potent
+            bispecific antibodies engineered from non-Omicron neutralizing
+            antibodies
+  JOURNAL   Cell Discov 8 (1), 104 (2022)
+   PUBMED   36207299
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 324)
+  AUTHORS   Wang,Y., Wu,F. and Huang,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2022) Key Laboratory of Medical Molecular
+            Virology (MOE/NHC/CAMS), Fudan University, Rm412, Fuxing Building,
+            131 Dongan Road, Shanghai, Shanghai 200032, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..324
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="4L12"
+     CDS             <1..>324
+                     /codon_start=1
+                     /product="anti SARS-CoV-2 immunoglobulin light chain"
+                     /protein_id="UXF51062.1"
+                     /translation="AIQLTQSPSSLSASVGDRVTITCRASQGISSYLAWYQQKPGKAP
+                     KLLIYAASTLQSGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQLNSYPPLTFGGG
+                     TKVEIK"
+ORIGIN      
+        1 gccatccagt tgacccagtc tccatcctcc ctgtctgcat ctgtaggaga cagagtcacc
+       61 atcacttgcc gggccagtca gggcattagc agttatttag cctggtatca gcaaaaacca
+      121 gggaaagccc ctaagctcct gatctatgct gcatccactt tgcaaagtgg ggtcccatca
+      181 aggttcagcg gcagtggatc tgggacagat ttcactctca ccatcagcag cctgcagcct
+      241 gaagattttg caacttatta ctgtcaacag cttaatagtt acccccccct cactttcggc
+      301 ggagggacca aggtggaaat caaa
+//
+
