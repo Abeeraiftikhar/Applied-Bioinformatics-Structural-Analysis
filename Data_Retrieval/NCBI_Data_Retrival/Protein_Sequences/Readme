@@ -1,1 +1,34 @@
+# Protein Sequence Retrieval
 
+This repository section contains protein sequence datasets retrieved from NCBI for practical bioinformatics analysis, structural biology, and computational protein studies. Each folder represents an individual protein record downloaded in FASTA and annotated sequence formats for downstream protein analysis workflows.
+
+The dataset includes biologically significant protein sequences from bacterial, viral, plant, and human-related studies. These protein sequences are useful for understanding amino acid composition, protein function, structural organization, evolutionary conservation, and molecular interactions.
+
+The retrieved protein records can be applied in multiple bioinformatics tasks including protein alignment, motif identification, conserved domain analysis, structure prediction, molecular docking preparation, phylogenetic analysis, and functional annotation. The collection is designed to support hands-on learning and applied research in proteomics and structural bioinformatics.
+
+## Contents
+
+The folder currently contains:
+
+- FASTA format protein sequences
+- Annotated protein records
+- Sequence-specific subdirectories
+- NCBI accession-based organization structure
+
+## Applications
+
+These protein sequences can be utilized for:
+
+- Protein BLAST analysis
+- Multiple sequence alignment
+- Conserved domain identification
+- Motif and pattern analysis
+- Protein structure prediction
+- Molecular docking studies
+- Functional annotation
+- Comparative proteomics
+- Evolutionary analysis
+
+## Data Source
+
+NCBI Protein Database
