@@ -1,0 +1,61 @@
+LOCUS       OP889364                1427 bp    DNA     linear   BCT 29-NOV-2022
+DEFINITION  Escherichia coli strain M10-4 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   OP889364
+VERSION     OP889364.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 1427)
+  AUTHORS   Li,J.
+  TITLE     Escherichia coli strain M10-4 16S ribosomal RNA gene
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1427)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-NOV-2022) SICHUAN AGRICULTURAL UNIVERSITY College of
+            Veterinary Medicine, SICHUAN AGRICULTURAL UNIVERSITY, Huimin Road,
+            Chengdu 610000, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1427
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="M10-4"
+                     /isolation_source="feces"
+                     /host="Arborophila rufipectus"
+                     /db_xref="taxon:562"
+                     /geo_loc_name="China"
+     rRNA            <1..>1427
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aagctggacc aacgcctaac acatgcagtc gtacaaggta ccaccaaatt tttgctttgc
+       61 tgacgagtgg cggacgggtg agtaatgtct gggaaactgc ctgatggagg gggatgacta
+      121 ctggaaacgg tagctaatac agcataacgt cgcaagacca aagaggggga ccttcgggcc
+      181 tcttgccatc ggatgtgccc agatgggatt agctagtagg tggggtaaag gctcacctag
+      241 gcgacgatcc ctagctggtc tgagaggatg accagccaca ctggaactga gacacggtcc
+      301 agactcctac gggaggcagc agtggggaat attgcacaat gggcgcaagc ctgatgcagc
+      361 catgccgcgt gtatgaagaa ggccttcggg ttgtaaagta ctttcagcgg ggaggaaggg
+      421 agtaaagtta atacctttgc tcattgacgt tacccgcaga agaagcaccg gctaactccg
+      481 tgccagcagc cgcggtaata cggagggtgc aagcgttaat cggaattact gggcgtaaag
+      541 cgcacgcagg cggtttgtta agtcagatgt gaaatccccg ggctcaacct gggaactgca
+      601 tctgatactg gcaagcttga gtctcgtaga ggggggtaga attccaggtg tagcggtgaa
+      661 atgcgtagag atctggagga ataccggtgg cgaaggcggc cccctggacg aagactgacg
+      721 ctcaggtgcg aaagcgtggg gagcaaacag gattagatac cctggtagtc cacgccgtaa
+      781 acgatgtcga cttggaggtt gtgcccttga ggcgtggctt ccggagctaa cgcgttaagt
+      841 cgaccgcctg gggagtacgg ccgcaaggtt aaaactcaaa tgaattgacg ggggcccgca
+      901 caagcggtgg agcatgtggt ttaattcgat gcaacgcgaa gaaccttacc tggtcttgac
+      961 atccacggaa gttttcagag atgagaatgt gccttcggga accgtgagac aggtgctgca
+     1021 tggctgtcgt cagctcgtgt tgtgaaatgt tgggttaagt cccgcaacga gcgcaaccct
+     1081 tatcctttgt tgccagcggt ccggccggga actcaaagga gactgccagt gataaactgg
+     1141 aggaaggtgg ggatgacgtc aagtcatcat ggcccttacg accagggcta cacacgtgct
+     1201 acaatggcgc atacaaagag aagcgacctc gcgagagcaa gcggacctca taaagtgcgt
+     1261 cgtagtccgg attggagtct gcaactcgac tccatgaagt cggaatcgct agtaatcgtg
+     1321 gatcagaatg ccacggtgaa tacgttcccg ggccttgtac acaccgcccg tcacaccatg
+     1381 ggagtgggtt gcaaaagaag tactagagtt tgatcctggg ctcagat
+//
+
