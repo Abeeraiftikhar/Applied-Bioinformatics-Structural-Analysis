@@ -1,0 +1,33 @@
+## NCBI (National Center for Biotechnology Information)
+📌 Purpose
+
+NCBI is one of the largest biological databases used for retrieving nucleotide sequences, protein information, genome data, literature, and bioinformatics tools.
+
+## 📌 Major Databases
+GenBank
+RefSeq
+PubMed
+Gene
+Protein
+SRA
+## 📌 Common Uses
+Retrieve DNA/RNA sequences
+Download protein sequences
+Literature search
+Sequence annotation
+BLAST analysis
+## 📌 Important File Formats
+FASTA (.fasta)
+GenBank (.gb)
+TXT
+## 📌 Steps for Sequence Retrieval
+Open NCBI website
+Select database (Nucleotide/Protein)
+Search using accession number
+Open sequence record
+Download FASTA format
+## 📌 Output Files to Upload
+FASTA sequences
+GenBank records
+Screenshots
+Accession lists
