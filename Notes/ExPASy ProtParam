@@ -1,0 +1,20 @@
+##📌 Purpose
+
+ProtParam calculates physicochemical properties of proteins.
+
+##📌 Parameters Calculated
+Molecular weight
+Theoretical pI
+Instability index
+Aliphatic index
+GRAVY score
+
+##📌 Applications
+Protein characterization
+Stability prediction
+Solubility estimation
+
+##📌 Files to Upload
+ProtParam results
+Property tables
+Analysis summary
