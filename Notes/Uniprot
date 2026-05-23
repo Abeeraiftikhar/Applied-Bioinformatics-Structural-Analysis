@@ -1,0 +1,36 @@
+UniProt
+## 📌 Purpose
+
+UniProt is a protein knowledge database containing functional and structural information about proteins.
+
+## 📌 Key Information Provided
+Protein function
+Domains
+Subcellular location
+Sequence length
+Organism details
+Protein families
+
+## 📌 Common Uses
+Protein annotation
+Functional analysis
+Conserved domain identification
+Protein sequence retrieval
+
+## 📌 File Types
+FASTA
+TXT
+XML
+
+## 📌 Important Sections
+Function
+Sequence
+Domains
+PTMs
+Structure
+
+##📌 Files to Upload
+Protein FASTA
+Annotation reports
+Domain screenshots
+Functional summaries
