@@ -1,0 +1,18 @@
+📌 Purpose
+
+I-TASSER predicts protein tertiary structure.
+
+## 📌 Features
+3D structure prediction
+Function prediction
+Ligand binding prediction
+
+## 📌 Important Scores
+C-score
+TM-score
+RMSD
+
+##📌 Files to Upload
+Predicted PDB models
+Confidence score reports
+Structure images
