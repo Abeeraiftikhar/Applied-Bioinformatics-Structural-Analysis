@@ -10,22 +10,26 @@ PubMed
 Gene
 Protein
 SRA
+
 ## 📌 Common Uses
 Retrieve DNA/RNA sequences
 Download protein sequences
 Literature search
 Sequence annotation
 BLAST analysis
+
 ## 📌 Important File Formats
 FASTA (.fasta)
 GenBank (.gb)
 TXT
+
 ## 📌 Steps for Sequence Retrieval
 Open NCBI website
 Select database (Nucleotide/Protein)
 Search using accession number
 Open sequence record
 Download FASTA format
+
 ## 📌 Output Files to Upload
 FASTA sequences
 GenBank records
