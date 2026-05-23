@@ -1,0 +1,3709 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/docs/uniprot.xsd">
+<entry xmlns="http://uniprot.org/uniprot" dataset="Swiss-Prot" created="1990-04-01" modified="2026-01-28" version="276">
+<accession>P15692</accession>
+<accession>B5BU86</accession>
+<accession>H0Y2S8</accession>
+<accession>H0Y407</accession>
+<accession>H0Y414</accession>
+<accession>H0Y462</accession>
+<accession>H0Y8N2</accession>
+<accession>H3BLW7</accession>
+<accession>O60720</accession>
+<accession>O75875</accession>
+<accession>Q074Z4</accession>
+<accession>Q16889</accession>
+<accession>Q5UB46</accession>
+<accession>Q6P0P5</accession>
+<accession>Q96KJ0</accession>
+<accession>Q96L82</accession>
+<accession>Q96NW5</accession>
+<accession>Q9H1W8</accession>
+<accession>Q9H1W9</accession>
+<accession>Q9UH58</accession>
+<accession>Q9UL23</accession>
+<name>VEGFA_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Vascular endothelial growth factor A, long form</fullName>
+<shortName evidence="27 28">L-VEGF</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Vascular permeability factor</fullName>
+<shortName>VPF</shortName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName evidence="28">N-VEGF</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName evidence="28">VEGFA</fullName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">VEGFA</name>
+<name type="synonym">VEGF</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Science" volume="246" first="1306" last="1309">
+<title>Vascular endothelial growth factor is a secreted angiogenic mitogen.</title>
+<authorList>
+<person name="Leung D.W."/>
+<person name="Cachianes G."/>
+<person name="Kuang W.-J."/>
+<person name="Goeddel D.V."/>
+<person name="Ferrara N."/>
+</authorList>
+<dbReference type="PubMed" id="2479986"/>
+<dbReference type="DOI" id="10.1126/science.2479986"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS VEGF189 AND VEGF165)</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1989" name="Science" volume="246" first="1309" last="1312">
+<title>Vascular permeability factor, an endothelial cell mitogen related to PDGF.</title>
+<authorList>
+<person name="Keck P.J."/>
+<person name="Hauser S.D."/>
+<person name="Krivi G."/>
+<person name="Sanzo K."/>
+<person name="Warren T."/>
+<person name="Feder J."/>
+<person name="Connolly D.T."/>
+</authorList>
+<dbReference type="PubMed" id="2479987"/>
+<dbReference type="DOI" id="10.1126/science.2479987"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF189)</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1991" name="J. Biol. Chem." volume="266" first="11947" last="11954">
+<title>The human gene for vascular endothelial growth factor. Multiple protein forms are encoded through alternative exon splicing.</title>
+<authorList>
+<person name="Tischer E."/>
+<person name="Mitchell R."/>
+<person name="Hartman T."/>
+<person name="Silva M."/>
+<person name="Gospodarowicz D."/>
+<person name="Fiddes J.C."/>
+<person name="Abraham J.A."/>
+</authorList>
+<dbReference type="PubMed" id="1711045"/>
+<dbReference type="DOI" id="10.1016/s0021-9258(18)99049-6"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM VEGF189)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1991" name="Mol. Endocrinol." volume="5" first="1806" last="1814">
+<title>The vascular endothelial growth factor family: identification of a fourth molecular species and characterization of alternative splicing of RNA.</title>
+<authorList>
+<person name="Houck K.A."/>
+<person name="Ferrara N."/>
+<person name="Winer J."/>
+<person name="Cachianes G."/>
+<person name="Li B."/>
+<person name="Leung D.W."/>
+</authorList>
+<dbReference type="PubMed" id="1791831"/>
+<dbReference type="DOI" id="10.1210/mend-5-12-1806"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORM VEGF206)</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1992" name="Biochem. Biophys. Res. Commun." volume="183" first="1167" last="1174">
+<title>AIDS-associated Kaposi's sarcoma cells in culture express vascular endothelial growth factor.</title>
+<authorList>
+<person name="Weindel K."/>
+<person name="Marme D."/>
+<person name="Weich H.A."/>
+</authorList>
+<dbReference type="PubMed" id="1567395"/>
+<dbReference type="DOI" id="10.1016/s0006-291x(05)80313-4"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF165)</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="7151" last="7158">
+<title>VEGF145, a secreted vascular endothelial growth factor isoform that binds to extracellular matrix.</title>
+<authorList>
+<person name="Poltorak Z."/>
+<person name="Cohen T."/>
+<person name="Sivan R."/>
+<person name="Kandelis Y."/>
+<person name="Spira G."/>
+<person name="Vlodavsky I."/>
+<person name="Keshet E."/>
+<person name="Neufeld G."/>
+</authorList>
+<dbReference type="PubMed" id="9054410"/>
+<dbReference type="DOI" id="10.1074/jbc.272.11.7151"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF145)</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1998" name="Biochim. Biophys. Acta" volume="1443" first="400" last="406">
+<title>Identification and characterization of a new splicing variant of vascular endothelial growth factor: VEGF183.</title>
+<authorList>
+<person name="Lei J."/>
+<person name="Jiang A."/>
+<person name="Pei D."/>
+</authorList>
+<dbReference type="PubMed" id="9878851"/>
+<dbReference type="DOI" id="10.1016/s0167-4781(98)00240-1"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF183)</scope>
+<source>
+<tissue>Kidney</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1998" name="Mol. Biol. Cell" volume="9" first="469" last="481">
+<title>Identification of a human VPF/VEGF 3' untranslated region mediating hypoxia-induced mRNA stability.</title>
+<authorList>
+<person name="Claffey K.P."/>
+<person name="Shih S.-C."/>
+<person name="Mullen A."/>
+<person name="Dziennis S."/>
+<person name="Cusick J.L."/>
+<person name="Abrams K.R."/>
+<person name="Lee S.W."/>
+<person name="Detmar M."/>
+</authorList>
+<dbReference type="PubMed" id="9450968"/>
+<dbReference type="DOI" id="10.1091/mbc.9.2.469"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM L-VEGF165)</scope>
+<source>
+<tissue>Mammary gland</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1999" name="Clin. Sci." volume="97" first="303" last="312">
+<title>Heterogeneous vascular endothelial growth factor (VEGF) isoform mRNA and receptor mRNA expression in human glomeruli, and the identification of VEGF148 mRNA, a novel truncated splice variant.</title>
+<authorList>
+<person name="Whittle C.J."/>
+<person name="Gillespie K.M."/>
+<person name="Harrison R."/>
+<person name="Mathieson P.W."/>
+<person name="Harper S.J."/>
+</authorList>
+<dbReference type="PubMed" id="10464055"/>
+<dbReference type="DOI" id="10.1042/cs0970303"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF148)</scope>
+<source>
+<tissue>Renal glomerulus</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2002" name="Cancer Res." volume="62" first="4123" last="4131">
+<title>VEGF165b, an inhibitory splice variant of vascular endothelial growth factor, is down-regulated in renal cell carcinoma.</title>
+<authorList>
+<person name="Bates D.O."/>
+<person name="Cui T.-G."/>
+<person name="Doughty J.M."/>
+<person name="Winkler M."/>
+<person name="Sugiono M."/>
+<person name="Shields J.D."/>
+<person name="Peat D."/>
+<person name="Gillatt D."/>
+<person name="Harper S.J."/>
+</authorList>
+<dbReference type="PubMed" id="12124351"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF165B)</scope>
+<source>
+<tissue>Kidney</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="submission" date="1998-12" db="EMBL/GenBank/DDBJ databases">
+<title>Human cDNA for the vascular endothelial growth factor isoform VEGF165.</title>
+<authorList>
+<person name="Murata H."/>
+<person name="Fukushima J."/>
+<person name="Hattori S."/>
+<person name="Okuda K."/>
+<person name="Yanagi H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF165)</scope>
+<source>
+<tissue>Hemangioendothelioma</tissue>
+</source>
+</reference>
+<reference key="12">
+<citation type="submission" date="1999-12" db="EMBL/GenBank/DDBJ databases">
+<title>Human cDNA for vascular endothelial growth factor isoform VEGF121.</title>
+<authorList>
+<person name="Sato J.D."/>
+<person name="Whitney R.G."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF121)</scope>
+</reference>
+<reference key="13">
+<citation type="submission" date="2001-07" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of vascular endothelial growth factor (VEGF) cDNA.</title>
+<authorList>
+<person name="Liu J."/>
+<person name="Peng X."/>
+<person name="Yuan J."/>
+<person name="Qiang B."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF165)</scope>
+</reference>
+<reference key="14">
+<citation type="submission" date="2002-02" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning and identification of vascular endothelial growth factor isoform VEGF165.</title>
+<authorList>
+<person name="Shan Z.X."/>
+<person name="Yu X.Y."/>
+<person name="Lin Q.X."/>
+<person name="Fu Y.H."/>
+<person name="Zheng M."/>
+<person name="Tan H.H."/>
+<person name="Lin S.G."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF165)</scope>
+<source>
+<tissue>Heart</tissue>
+</source>
+</reference>
+<reference key="15">
+<citation type="submission" date="2004-09" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning and characterization of VEGF from LNCaP cells, a line of prostate cancer cells.</title>
+<authorList>
+<person name="Koul S."/>
+<person name="Johnson T."/>
+<person name="Meacham R.B."/>
+<person name="Koul H.K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF165)</scope>
+</reference>
+<reference key="16">
+<citation type="submission" date="2005-10" db="EMBL/GenBank/DDBJ databases">
+<title>VEGF111, a new VEGF-A variant lacking exons 5, 6 and 7.</title>
+<authorList>
+<person name="Mineur P.J."/>
+<person name="Colige A.C."/>
+<person name="Lambert C.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM VEGF111)</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2008" name="Nat. Methods" volume="5" first="1011" last="1017">
+<title>Human protein factory for converting the transcriptome into an in vitro-expressed proteome.</title>
+<authorList>
+<person name="Goshima N."/>
+<person name="Kawamura Y."/>
+<person name="Fukumoto A."/>
+<person name="Miura A."/>
+<person name="Honma R."/>
+<person name="Satoh R."/>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Nishikawa T."/>
+<person name="Andoh T."/>
+<person name="Iida Y."/>
+<person name="Ishikawa K."/>
+<person name="Ito E."/>
+<person name="Kagawa N."/>
+<person name="Kaminaga C."/>
+<person name="Kanehori K."/>
+<person name="Kawakami B."/>
+<person name="Kenmochi K."/>
+<person name="Kimura R."/>
+<person name="Kobayashi M."/>
+<person name="Kuroita T."/>
+<person name="Kuwayama H."/>
+<person name="Maruyama Y."/>
+<person name="Matsuo K."/>
+<person name="Minami K."/>
+<person name="Mitsubori M."/>
+<person name="Mori M."/>
+<person name="Morishita R."/>
+<person name="Murase A."/>
+<person name="Nishikawa A."/>
+<person name="Nishikawa S."/>
+<person name="Okamoto T."/>
+<person name="Sakagami N."/>
+<person name="Sakamoto Y."/>
+<person name="Sasaki Y."/>
+<person name="Seki T."/>
+<person name="Sono S."/>
+<person name="Sugiyama A."/>
+<person name="Sumiya T."/>
+<person name="Takayama T."/>
+<person name="Takayama Y."/>
+<person name="Takeda H."/>
+<person name="Togashi T."/>
+<person name="Yahata K."/>
+<person name="Yamada H."/>
+<person name="Yanagisawa Y."/>
+<person name="Endo Y."/>
+<person name="Imamoto F."/>
+<person name="Kisu Y."/>
+<person name="Tanaka S."/>
+<person name="Isogai T."/>
+<person name="Imai J."/>
+<person name="Watanabe S."/>
+<person name="Nomura N."/>
+</authorList>
+<dbReference type="PubMed" id="19054851"/>
+<dbReference type="DOI" id="10.1038/nmeth.1273"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM VEGF165)</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2003" name="Nature" volume="425" first="805" last="811">
+<title>The DNA sequence and analysis of human chromosome 6.</title>
+<authorList>
+<person name="Mungall A.J."/>
+<person name="Palmer S.A."/>
+<person name="Sims S.K."/>
+<person name="Edwards C.A."/>
+<person name="Ashurst J.L."/>
+<person name="Wilming L."/>
+<person name="Jones M.C."/>
+<person name="Horton R."/>
+<person name="Hunt S.E."/>
+<person name="Scott C.E."/>
+<person name="Gilbert J.G.R."/>
+<person name="Clamp M.E."/>
+<person name="Bethel G."/>
+<person name="Milne S."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Andrews T.D."/>
+<person name="Ashwell R.I.S."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Banerjee R."/>
+<person name="Barker D.J."/>
+<person name="Barlow K.F."/>
+<person name="Bates K."/>
+<person name="Beare D.M."/>
+<person name="Beasley H."/>
+<person name="Beasley O."/>
+<person name="Bird C.P."/>
+<person name="Blakey S.E."/>
+<person name="Bray-Allen S."/>
+<person name="Brook J."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burford D.C."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Carder C."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clark G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Cobley V."/>
+<person name="Collier R.E."/>
+<person name="Collins J.E."/>
+<person name="Colman L.K."/>
+<person name="Corby N.R."/>
+<person name="Coville G.J."/>
+<person name="Culley K.M."/>
+<person name="Dhami P."/>
+<person name="Davies J."/>
+<person name="Dunn M."/>
+<person name="Earthrowl M.E."/>
+<person name="Ellington A.E."/>
+<person name="Evans K.A."/>
+<person name="Faulkner L."/>
+<person name="Francis M.D."/>
+<person name="Frankish A."/>
+<person name="Frankland J."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Ghori M.J."/>
+<person name="Gilby L.M."/>
+<person name="Gillson C.J."/>
+<person name="Glithero R.J."/>
+<person name="Grafham D.V."/>
+<person name="Grant M."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Griffiths M.N.D."/>
+<person name="Hall R."/>
+<person name="Halls K.S."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Hart E.A."/>
+<person name="Heath P.D."/>
+<person name="Heathcott R."/>
+<person name="Holmes S.J."/>
+<person name="Howden P.J."/>
+<person name="Howe K.L."/>
+<person name="Howell G.R."/>
+<person name="Huckle E."/>
+<person name="Humphray S.J."/>
+<person name="Humphries M.D."/>
+<person name="Hunt A.R."/>
+<person name="Johnson C.M."/>
+<person name="Joy A.A."/>
+<person name="Kay M."/>
+<person name="Keenan S.J."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Laird G.K."/>
+<person name="Langford C."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Leversha M."/>
+<person name="Lloyd C.R."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J.E."/>
+<person name="Lovell J."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Maslen G.L."/>
+<person name="Matthews L."/>
+<person name="McCann O.T."/>
+<person name="McLaren S.J."/>
+<person name="McLay K."/>
+<person name="McMurray A."/>
+<person name="Moore M.J.F."/>
+<person name="Mullikin J.C."/>
+<person name="Niblett D."/>
+<person name="Nickerson T."/>
+<person name="Novik K.L."/>
+<person name="Oliver K."/>
+<person name="Overton-Larty E.K."/>
+<person name="Parker A."/>
+<person name="Patel R."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Phillimore B.J.C.T."/>
+<person name="Phillips S."/>
+<person name="Plumb R.W."/>
+<person name="Porter K.M."/>
+<person name="Ramsey Y."/>
+<person name="Ranby S.A."/>
+<person name="Rice C.M."/>
+<person name="Ross M.T."/>
+<person name="Searle S.M."/>
+<person name="Sehra H.K."/>
+<person name="Sheridan E."/>
+<person name="Skuce C.D."/>
+<person name="Smith S."/>
+<person name="Smith M."/>
+<person name="Spraggon L."/>
+<person name="Squares S.L."/>
+<person name="Steward C.A."/>
+<person name="Sycamore N."/>
+<person name="Tamlyn-Hall G."/>
+<person name="Tester J."/>
+<person name="Theaker A.J."/>
+<person name="Thomas D.W."/>
+<person name="Thorpe A."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Tubby B."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="West A.P."/>
+<person name="White S.S."/>
+<person name="Whitehead S.L."/>
+<person name="Whittaker H."/>
+<person name="Wild A."/>
+<person name="Willey D.J."/>
+<person name="Wilmer T.E."/>
+<person name="Wood J.M."/>
+<person name="Wray P.W."/>
+<person name="Wyatt J.C."/>
+<person name="Young L."/>
+<person name="Younger R.M."/>
+<person name="Bentley D.R."/>
+<person name="Coulson A."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Sulston J.E."/>
+<person name="Dunham I."/>
+<person name="Rogers J."/>
+<person name="Beck S."/>
+</authorList>
+<dbReference type="PubMed" id="14574404"/>
+<dbReference type="DOI" id="10.1038/nature02055"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="19">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>PARTIAL NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM L-VEGF121)</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="21">
+<citation type="submission" date="2001-10" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="SeattleSNPs variation discovery resource"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 203-395</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="1993" name="Eur. J. Biochem." volume="211" first="19" last="26">
+<title>Synthesis and assembly of functionally active human vascular endothelial growth factor homodimers in insect cells.</title>
+<authorList>
+<person name="Fiebich B.L."/>
+<person name="Jaeger B."/>
+<person name="Schoellmann C."/>
+<person name="Weindel K."/>
+<person name="Wilting J."/>
+<person name="Kochs G."/>
+<person name="Marme D."/>
+<person name="Hug H."/>
+<person name="Weich H.A."/>
+</authorList>
+<dbReference type="PubMed" id="7678805"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1993.tb19865.x"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 207-221</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2004" name="Protein Sci." volume="13" first="2819" last="2824">
+<title>Signal peptide prediction based on analysis of experimentally verified cleavage sites.</title>
+<authorList>
+<person name="Zhang Z."/>
+<person name="Henzel W.J."/>
+</authorList>
+<dbReference type="PubMed" id="15340161"/>
+<dbReference type="DOI" id="10.1110/ps.04682504"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 207-221</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="1989" name="J. Biol. Chem." volume="264" first="20017" last="20024">
+<title>Human vascular permeability factor. Isolation from U937 cells.</title>
+<authorList>
+<person name="Connolly D.T."/>
+<person name="Olander J.V."/>
+<person name="Heuvelman D."/>
+<person name="Nelson R."/>
+<person name="Monsell R."/>
+<person name="Siegel N."/>
+<person name="Haymore B.L."/>
+<person name="Leimgruber R."/>
+<person name="Feder J."/>
+</authorList>
+<dbReference type="PubMed" id="2584205"/>
+<dbReference type="DOI" id="10.1016/s0021-9258(19)47212-8"/>
+</citation>
+<scope>PRELIMINARY PROTEIN SEQUENCE OF 207-216; 223-230 AND 239-261</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="1999" name="Invest. Ophthalmol. Vis. Sci." volume="40" first="752" last="759">
+<title>Human Muller cells express VEGF183, a novel spliced variant of vascular endothelial growth factor.</title>
+<authorList>
+<person name="Jingjing L."/>
+<person name="Xue Y."/>
+<person name="Agarwal N."/>
+<person name="Roque R.S."/>
+</authorList>
+<dbReference type="PubMed" id="10067980"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 294-372 (ISOFORM VEGF183)</scope>
+<source>
+<tissue>Retina</tissue>
+</source>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2001" name="Biochem. J." volume="359" first="219" last="226">
+<title>A precursor form of vascular endothelial growth factor arises by initiation from an upstream in-frame CUG codon.</title>
+<authorList>
+<person name="Tee M.K."/>
+<person name="Jaffe R.B."/>
+</authorList>
+<dbReference type="PubMed" id="11563986"/>
+<dbReference type="DOI" id="10.1042/0264-6021:3590219"/>
+</citation>
+<scope>ALTERNATIVE SPLICING (ISOFORMS L-VEGF121 AND L-VEGF165)</scope>
+<scope>PROCESSING</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2001" name="FASEB J." volume="15" first="1667" last="1669">
+<title>Vascular endothelial growth factor induces cyclooxygenase-dependent proliferation of endothelial cells via the VEGF-2 receptor.</title>
+<authorList>
+<person name="Murphy J.F."/>
+<person name="Fitzgerald D.J."/>
+</authorList>
+<dbReference type="PubMed" id="11427521"/>
+<dbReference type="DOI" id="10.1096/fj.00-0757fje"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2001" name="Mol. Endocrinol." volume="15" first="2197" last="2210">
+<title>New vascular endothelial growth factor isoform generated by internal ribosome entry site-driven CUG translation initiation.</title>
+<authorList>
+<person name="Huez I."/>
+<person name="Bornes S."/>
+<person name="Bresson D."/>
+<person name="Creancier L."/>
+<person name="Prats H."/>
+</authorList>
+<dbReference type="PubMed" id="11731620"/>
+<dbReference type="DOI" id="10.1210/mend.15.12.0738"/>
+</citation>
+<scope>ALTERNATIVE SPLICING (ISOFORM L-VEGF189)</scope>
+<scope>PROCESSING</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2002" name="Diabetes" volume="51" first="1635" last="1639">
+<title>A common polymorphism in the 5'-untranslated region of the VEGF gene is associated with diabetic retinopathy in type 2 diabetes.</title>
+<authorList>
+<person name="Awata T."/>
+<person name="Inoue K."/>
+<person name="Kurihara S."/>
+<person name="Ohkubo T."/>
+<person name="Watanabe M."/>
+<person name="Inukai K."/>
+<person name="Inoue I."/>
+<person name="Katayama S."/>
+</authorList>
+<dbReference type="PubMed" id="11978667"/>
+<dbReference type="DOI" id="10.2337/diabetes.51.5.1635"/>
+</citation>
+<scope>INVOLVEMENT IN MVCD1</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2004" name="Cancer Res." volume="64" first="7822" last="7835">
+<title>VEGF165b, an inhibitory vascular endothelial growth factor splice variant: mechanism of action, in vivo effect on angiogenesis and endogenous protein expression.</title>
+<authorList>
+<person name="Woolard J."/>
+<person name="Wang W.-Y."/>
+<person name="Bevan H.S."/>
+<person name="Qiu Y."/>
+<person name="Morbidelli L."/>
+<person name="Pritchard-Jones R.O."/>
+<person name="Cui T.-G."/>
+<person name="Sugiono M."/>
+<person name="Waine E."/>
+<person name="Perrin R."/>
+<person name="Foster R."/>
+<person name="Digby-Bell J."/>
+<person name="Shields J.D."/>
+<person name="Whittles C.E."/>
+<person name="Mushens R.E."/>
+<person name="Gillatt D.A."/>
+<person name="Ziche M."/>
+<person name="Harper S.J."/>
+<person name="Bates D.O."/>
+</authorList>
+<dbReference type="PubMed" id="15520188"/>
+<dbReference type="DOI" id="10.1158/0008-5472.can-04-0934"/>
+</citation>
+<scope>FUNCTION (ISOFORM VEGF165B)</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="18717" last="18726">
+<title>Control of the vascular endothelial growth factor internal ribosome entry site (IRES) activity and translation initiation by alternatively spliced coding sequences.</title>
+<authorList>
+<person name="Bornes S."/>
+<person name="Boulard M."/>
+<person name="Hieblot C."/>
+<person name="Zanibellato C."/>
+<person name="Iacovoni J.S."/>
+<person name="Prats H."/>
+<person name="Touriol C."/>
+</authorList>
+<dbReference type="PubMed" id="14764596"/>
+<dbReference type="DOI" id="10.1074/jbc.m308410200"/>
+</citation>
+<scope>ALTERNATIVE SPLICING (ISOFORMS L-VEGF121; L-VEGF165 AND L-VEGF189)</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2005" name="Biochem. Biophys. Res. Commun." volume="332" first="271" last="278">
+<title>Nuclear localization of long-VEGF is associated with hypoxia and tumor angiogenesis.</title>
+<authorList>
+<person name="Rosenbaum-Dekel Y."/>
+<person name="Fuchs A."/>
+<person name="Yakirevich E."/>
+<person name="Azriel A."/>
+<person name="Mazareb S."/>
+<person name="Resnick M.B."/>
+<person name="Levi B.Z."/>
+</authorList>
+<dbReference type="PubMed" id="15896327"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2005.04.123"/>
+</citation>
+<scope>ALTERNATIVE SPLICING (ISOFORMS L-VEGF121 AND L-VEGF165)</scope>
+<scope>PROCESSING</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2006" name="Cancer Res." volume="66" first="2089" last="2097">
+<title>Minimal active domain and mechanism of action of the angiogenesis inhibitor histidine-rich glycoprotein.</title>
+<authorList>
+<person name="Dixelius J."/>
+<person name="Olsson A.K."/>
+<person name="Thulin A."/>
+<person name="Lee C."/>
+<person name="Johansson I."/>
+<person name="Claesson-Welsh L."/>
+</authorList>
+<dbReference type="PubMed" id="16489009"/>
+<dbReference type="DOI" id="10.1158/0008-5472.can-05-2217"/>
+</citation>
+<scope>FUNCTION IN CELL MIGRATION</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2007" name="Circ. Res." volume="100" first="1522" last="1529">
+<title>Association of ATP1A1 and dear single-nucleotide polymorphism haplotypes with essential hypertension: sex-specific and haplotype-specific effects.</title>
+<authorList>
+<person name="Glorioso N."/>
+<person name="Herrera V.L."/>
+<person name="Bagamasbad P."/>
+<person name="Filigheddu F."/>
+<person name="Troffa C."/>
+<person name="Argiolas G."/>
+<person name="Bulla E."/>
+<person name="Decano J.L."/>
+<person name="Ruiz-Opazo N."/>
+</authorList>
+<dbReference type="PubMed" id="17446437"/>
+<dbReference type="DOI" id="10.1161/01.res.0000267716.96196.60"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2012" name="Endocr. Relat. Cancer" volume="19" first="13" last="27">
+<title>RSUME is implicated in HIF-1-induced VEGF-A production in pituitary tumour cells.</title>
+<authorList>
+<person name="Shan B."/>
+<person name="Gerez J."/>
+<person name="Haedo M."/>
+<person name="Fuertes M."/>
+<person name="Theodoropoulou M."/>
+<person name="Buchfelder M."/>
+<person name="Losa M."/>
+<person name="Stalla G.K."/>
+<person name="Arzt E."/>
+<person name="Renner U."/>
+</authorList>
+<dbReference type="PubMed" id="22009797"/>
+<dbReference type="DOI" id="10.1530/erc-11-0211"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2015" name="Nature" volume="526" first="710" last="714">
+<title>CMT2D neuropathy is linked to the neomorphic binding activity of glycyl-tRNA synthetase.</title>
+<authorList>
+<person name="He W."/>
+<person name="Bai G."/>
+<person name="Zhou H."/>
+<person name="Wei N."/>
+<person name="White N.M."/>
+<person name="Lauer J."/>
+<person name="Liu H."/>
+<person name="Shi Y."/>
+<person name="Dumitru C.D."/>
+<person name="Lettieri K."/>
+<person name="Shubayev V."/>
+<person name="Jordanova A."/>
+<person name="Guergueltcheva V."/>
+<person name="Griffin P.R."/>
+<person name="Burgess R.W."/>
+<person name="Pfaff S.L."/>
+<person name="Yang X.L."/>
+</authorList>
+<dbReference type="PubMed" id="26503042"/>
+<dbReference type="DOI" id="10.1038/nature15510"/>
+</citation>
+<scope>INTERACTION WITH NRP1</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2016" name="Nature" volume="532" first="402" last="402">
+<title>Corrigendum: CMT2D neuropathy is linked to the neomorphic binding activity of glycyl-tRNA synthetase.</title>
+<authorList>
+<person name="He W."/>
+<person name="Bai G."/>
+<person name="Zhou H."/>
+<person name="Wei N."/>
+<person name="White N.M."/>
+<person name="Lauer J."/>
+<person name="Liu H."/>
+<person name="Shi Y."/>
+<person name="Dan Dumitru C."/>
+<person name="Lettieri K."/>
+<person name="Shubayev V."/>
+<person name="Jordanova A."/>
+<person name="Guergueltcheva V."/>
+<person name="Griffin P.R."/>
+<person name="Burgess R.W."/>
+<person name="Pfaff S.L."/>
+<person name="Yang X.L."/>
+</authorList>
+<dbReference type="PubMed" id="26789244"/>
+<dbReference type="DOI" id="10.1038/nature16499"/>
+</citation>
+<scope>ERRATUM OF PUBMED:26503042</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2015" name="Oncotarget" volume="6" first="9766" last="9780">
+<title>EMMPRIN/CD147 is a novel coreceptor of VEGFR-2 mediating its activation by VEGF.</title>
+<authorList>
+<person name="Khayati F."/>
+<person name="Perez-Cano L."/>
+<person name="Maouche K."/>
+<person name="Sadoux A."/>
+<person name="Boutalbi Z."/>
+<person name="Podgorniak M.P."/>
+<person name="Maskos U."/>
+<person name="Setterblad N."/>
+<person name="Janin A."/>
+<person name="Calvo F."/>
+<person name="Lebbe C."/>
+<person name="Menashi S."/>
+<person name="Fernandez-Recio J."/>
+<person name="Mourah S."/>
+</authorList>
+<dbReference type="PubMed" id="25825981"/>
+<dbReference type="DOI" id="10.18632/oncotarget.2870"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH BSG</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2021" name="J. Hematol. Oncol." volume="14" first="148" last="148">
+<title>KAI1(CD82) is a key molecule to control angiogenesis and switch angiogenic milieu to quiescent state.</title>
+<authorList>
+<person name="Lee J.W."/>
+<person name="Hur J."/>
+<person name="Kwon Y.W."/>
+<person name="Chae C.W."/>
+<person name="Choi J.I."/>
+<person name="Hwang I."/>
+<person name="Yun J.Y."/>
+<person name="Kang J.A."/>
+<person name="Choi Y.E."/>
+<person name="Kim Y.H."/>
+<person name="Lee S.E."/>
+<person name="Lee C."/>
+<person name="Jo D.H."/>
+<person name="Seok H."/>
+<person name="Cho B.S."/>
+<person name="Baek S.H."/>
+<person name="Kim H.S."/>
+</authorList>
+<dbReference type="PubMed" id="34530889"/>
+<dbReference type="DOI" id="10.1186/s13045-021-01147-6"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH CD82</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="2022" name="Cells" volume="11">
+<title>N-VEGF, the Autoregulatory Arm of VEGF-A.</title>
+<authorList>
+<person name="Katsman M."/>
+<person name="Azriel A."/>
+<person name="Horev G."/>
+<person name="Reizel Y."/>
+<person name="Levi B.Z."/>
+</authorList>
+<dbReference type="PubMed" id="35455969"/>
+<dbReference type="DOI" id="10.3390/cells11081289"/>
+</citation>
+<scope>FUNCTION (N-VEGF)</scope>
+<scope>SUBCELLULAR LOCATION (N-VEGF)</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="1997" name="Proc. Natl. Acad. Sci. U.S.A." volume="94" first="7192" last="7197">
+<title>Vascular endothelial growth factor: crystal structure and functional mapping of the kinase domain receptor binding site.</title>
+<authorList>
+<person name="Muller Y.A."/>
+<person name="Li B."/>
+<person name="Christinger H.W."/>
+<person name="Wells J.A."/>
+<person name="Cunningham B.C."/>
+<person name="de Vos A.M."/>
+</authorList>
+<dbReference type="PubMed" id="9207067"/>
+<dbReference type="DOI" id="10.1073/pnas.94.14.7192"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 214-315</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="1997" name="Protein Sci." volume="6" first="2250" last="2260">
+<title>1H, 13C, and 15N backbone assignment and secondary structure of the receptor-binding domain of vascular endothelial growth factor.</title>
+<authorList>
+<person name="Fairbrother W.J."/>
+<person name="Champe M.A."/>
+<person name="Christinger H.W."/>
+<person name="Keyt B.A."/>
+<person name="Starovasnik M.A."/>
+</authorList>
+<dbReference type="PubMed" id="9336848"/>
+<dbReference type="DOI" id="10.1002/pro.5560061020"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 214-315</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="1997" name="Structure" volume="5" first="1325" last="1338">
+<title>The crystal structure of vascular endothelial growth factor (VEGF) refined to 1.93-A resolution: multiple copy flexibility and receptor binding.</title>
+<authorList>
+<person name="Muller Y.A."/>
+<person name="Christinger H.W."/>
+<person name="Keyt B.A."/>
+<person name="de Vos A.M."/>
+</authorList>
+<dbReference type="PubMed" id="9351807"/>
+<dbReference type="DOI" id="10.1016/s0969-2126(97)00284-0"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.93 ANGSTROMS) OF 214-315</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="1998" name="Biochemistry" volume="37" first="17765" last="17772">
+<title>Crystal structure of the complex between VEGF and a receptor-blocking peptide.</title>
+<authorList>
+<person name="Wiesmann C."/>
+<person name="Christinger H.W."/>
+<person name="Cochran A.G."/>
+<person name="Cunningham B.C."/>
+<person name="Fairbrother W.J."/>
+<person name="Keenan C.J."/>
+<person name="Meng G."/>
+<person name="de Vos A.M."/>
+</authorList>
+<dbReference type="PubMed" id="9922142"/>
+<dbReference type="DOI" id="10.1021/bi9819327"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 219-314</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="1998" name="Structure" volume="6" first="637" last="648">
+<title>Solution structure of the heparin-binding domain of vascular endothelial growth factor.</title>
+<authorList>
+<person name="Fairbrother W.J."/>
+<person name="Champe M.A."/>
+<person name="Christinger H.W."/>
+<person name="Keyt B.A."/>
+<person name="Starovasnik M.A."/>
+</authorList>
+<dbReference type="PubMed" id="9634701"/>
+<dbReference type="DOI" id="10.1016/s0969-2126(98)00065-3"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 317-378</scope>
+</reference>
+<comment type="function">
+<molecule>N-VEGF</molecule>
+<text evidence="2 21">Participates in the induction of key genes involved in the response to hypoxia and in the induction of angiogenesis such as HIF1A (PubMed:35455969). Involved in protecting cells from hypoxia-mediated cell death (By similarity).</text>
+</comment>
+<comment type="function">
+<molecule>VEGFA</molecule>
+<text evidence="2 5 13 14 18 20">Growth factor active in angiogenesis, vasculogenesis and endothelial cell growth (PubMed:34530889). Induces endothelial cell proliferation, promotes cell migration, inhibits apoptosis and induces permeabilization of blood vessels. Binds to the FLT1/VEGFR1 and KDR/VEGFR2 receptors, heparan sulfate and heparin. Binds to the NRP1/neuropilin-1 receptor. Binding to NRP1 initiates a signaling pathway needed for motor neuron axon guidance and cell body migration, including for the caudal migration of facial motor neurons from rhombomere 4 to rhombomere 6 during embryonic development (By similarity). Also binds the DEAR/FBXW7-AS1 receptor (PubMed:17446437).</text>
+</comment>
+<comment type="function">
+<molecule>Isoform VEGF165B</molecule>
+<text evidence="11">Binds to the KDR receptor but does not activate downstream signaling pathways, does not activate angiogenesis and inhibits tumor growth.</text>
+</comment>
+<comment type="subunit">
+<molecule>VEGFA</molecule>
+<text evidence="1 18 19 20">Homodimer; disulfide-linked (By similarity). Also found as heterodimer with PGF (By similarity). Interacts with NRP1 (PubMed:26503042). Interacts with isoform 2 of BSG (PubMed:25825981). Interacts with CD82; this interaction inhibits VEGFA-mediated signaling pathway (PubMed:34530889).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1026643">
+<id>P15692</id>
+</interactant>
+<interactant intactId="EBI-1026718">
+<id>P17948</id>
+<label>FLT1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1026643">
+<id>P15692</id>
+</interactant>
+<interactant intactId="EBI-1005487">
+<id>P35968</id>
+<label>KDR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1026643">
+<id>P15692</id>
+</interactant>
+<interactant intactId="EBI-1187100">
+<id>O14786</id>
+<label>NRP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1026643">
+<id>P15692</id>
+</interactant>
+<interactant intactId="EBI-1026643">
+<id>P15692</id>
+<label>VEGFA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1026691">
+<id>P15692-4</id>
+</interactant>
+<interactant intactId="EBI-1026718">
+<id>P17948</id>
+<label>FLT1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1026691">
+<id>P15692-4</id>
+</interactant>
+<interactant intactId="EBI-1005487">
+<id>P35968</id>
+<label>KDR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1026691">
+<id>P15692-4</id>
+</interactant>
+<interactant intactId="EBI-1187100">
+<id>O14786</id>
+<label>NRP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1026691">
+<id>P15692-4</id>
+</interactant>
+<interactant intactId="EBI-6285281">
+<id>O14786-2</id>
+<label>NRP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1026691">
+<id>P15692-4</id>
+</interactant>
+<interactant intactId="EBI-1026691">
+<id>P15692-4</id>
+<label>VEGFA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6622053">
+<id>P15692-12</id>
+</interactant>
+<interactant intactId="EBI-17565645">
+<id>P08034</id>
+<label>GJB1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6622053">
+<id>P15692-12</id>
+</interactant>
+<interactant intactId="EBI-11911016">
+<id>P80188</id>
+<label>LCN2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6622053">
+<id>P15692-12</id>
+</interactant>
+<interactant intactId="EBI-17295964">
+<id>Q9NQQ7-3</id>
+<label>SLC35C2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-6622053">
+<id>P15692-12</id>
+</interactant>
+<interactant intactId="EBI-10982110">
+<id>Q96Q45-2</id>
+<label>TMEM237</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<molecule>N-VEGF</molecule>
+<subcellularLocation>
+<location evidence="12">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="12 21">Nucleus</location>
+</subcellularLocation>
+<text evidence="12 21">Cytoplasmic in normoxic conditions and localizes to the nucleus under hypoxic conditions.</text>
+</comment>
+<comment type="subcellular location">
+<molecule>VEGFA</molecule>
+<subcellularLocation>
+<location evidence="6 7 12">Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform L-VEGF189</molecule>
+<subcellularLocation>
+<location evidence="7">Endoplasmic reticulum</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="7">Golgi apparatus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="6">Secreted</location>
+<location evidence="6">Extracellular space</location>
+<location evidence="6">Extracellular matrix</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform VEGF121</molecule>
+<subcellularLocation>
+<location evidence="12">Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform VEGF165</molecule>
+<subcellularLocation>
+<location evidence="12">Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform VEGF189</molecule>
+<subcellularLocation>
+<location>Secreted</location>
+</subcellularLocation>
+<text>Cell-associated after secretion and is bound avidly by heparin and the extracellular matrix, although it may be released as a soluble form by heparin, heparinase or plasmin.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative promoter"/>
+<event type="alternative splicing"/>
+<event type="alternative initiation"/>
+<isoform>
+<id>P15692-13</id>
+<name>L-VEGF189</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P15692-1</id>
+<name>VEGF206</name>
+<sequence type="described" ref="VSP_061891 VSP_061898"/>
+</isoform>
+<isoform>
+<id>P15692-2</id>
+<name>VEGF189</name>
+<sequence type="described" ref="VSP_061891"/>
+</isoform>
+<isoform>
+<id>P15692-3</id>
+<name>VEGF183</name>
+<sequence type="described" ref="VSP_061891 VSP_061897"/>
+</isoform>
+<isoform>
+<id>P15692-4</id>
+<name>VEGF165</name>
+<name>VEGF</name>
+<sequence type="described" ref="VSP_061891 VSP_061894"/>
+</isoform>
+<isoform>
+<id>P15692-5</id>
+<name>VEGF148</name>
+<sequence type="described" ref="VSP_061891 VSP_061894 VSP_061901 VSP_061902"/>
+</isoform>
+<isoform>
+<id>P15692-6</id>
+<name>VEGF145</name>
+<sequence type="described" ref="VSP_061891 VSP_061899 VSP_061900"/>
+</isoform>
+<isoform>
+<id>P15692-8</id>
+<name>VEGF165B</name>
+<sequence type="described" ref="VSP_061891 VSP_061894 VSP_061903"/>
+</isoform>
+<isoform>
+<id>P15692-9</id>
+<name>VEGF121</name>
+<sequence type="described" ref="VSP_061891 VSP_061895 VSP_061896"/>
+</isoform>
+<isoform>
+<id>P15692-10</id>
+<name>VEGF111</name>
+<sequence type="described" ref="VSP_061891 VSP_061892 VSP_061893"/>
+</isoform>
+<isoform>
+<id>P15692-11</id>
+<name>L-VEGF165</name>
+<sequence type="described" ref="VSP_061894"/>
+</isoform>
+<isoform>
+<id>P15692-12</id>
+<name>L-VEGF121</name>
+<sequence type="described" ref="VSP_061895 VSP_061896"/>
+</isoform>
+<isoform>
+<id>P15692-14</id>
+<name>L-VEGF206</name>
+<sequence type="described" ref="VSP_061898"/>
+</isoform>
+<isoform>
+<id>P15692-15</id>
+<name>15</name>
+<sequence type="described" ref="VSP_061894 VSP_061903"/>
+</isoform>
+<isoform>
+<id>P15692-16</id>
+<name>16</name>
+<sequence type="described" ref="VSP_061897"/>
+</isoform>
+<isoform>
+<id>P15692-17</id>
+<name>17</name>
+<sequence type="described" ref="VSP_061894 VSP_061901 VSP_061902"/>
+</isoform>
+<isoform>
+<id>P15692-18</id>
+<name>18</name>
+<sequence type="described" ref="VSP_061892 VSP_061893"/>
+</isoform>
+<text>A subset of isoforms are produced by use of an alternative upstream CUG codon, giving rise to long isoforms which have an N-terminal extension compared to the classical shorter AUG-initiated forms. These longer forms are post-translationally processed to produce an N-terminal N-VEGF chain and a C-terminal VEGFA chain.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="16">Higher expression in pituitary tumors than the pituitary gland.</text>
+</comment>
+<comment type="tissue specificity">
+<molecule>Isoform VEGF189</molecule>
+<text>Widely expressed.</text>
+</comment>
+<comment type="tissue specificity">
+<molecule>Isoform VEGF165</molecule>
+<text>Widely expressed.</text>
+</comment>
+<comment type="tissue specificity">
+<molecule>Isoform VEGF121</molecule>
+<text>Widely expressed.</text>
+</comment>
+<comment type="tissue specificity">
+<molecule>Isoform VEGF206</molecule>
+<text>Not widely expressed.</text>
+</comment>
+<comment type="tissue specificity">
+<molecule>Isoform VEGF145</molecule>
+<text>Not widely expressed.</text>
+</comment>
+<comment type="induction">
+<text evidence="16">By hypoxia. Regulated by growth factors, cytokines, gonadotropins, nitric oxide, hypoglycemia and oncogenic mutations.</text>
+</comment>
+<comment type="PTM">
+<molecule>Vascular endothelial growth factor A, long form</molecule>
+<text evidence="7">Produced by use of an alternative upstream CUG codon and post-translationally processed into the N-terminal N-VEGF form and the C-terminal secreted VEGFA form.</text>
+</comment>
+<comment type="disease" evidence="8">
+<disease id="DI-02754">
+<name>Microvascular complications of diabetes 1</name>
+<acronym>MVCD1</acronym>
+<description>Pathological conditions that develop in numerous tissues and organs as a consequence of diabetes mellitus. They include diabetic retinopathy, diabetic nephropathy leading to end-stage renal disease, and diabetic neuropathy. Diabetic retinopathy remains the major cause of new-onset blindness among diabetic adults. It is characterized by vascular permeability and increased tissue ischemia and angiogenesis.</description>
+<dbReference type="MIM" id="603933"/>
+</disease>
+<text>Disease susceptibility is associated with variants affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<molecule>Isoform L-VEGF189</molecule>
+<text>Produced by alternative promoter usage and alternative initiation. Starts at an alternative upstream CUG codon.</text>
+</comment>
+<comment type="miscellaneous">
+<molecule>Isoform L-VEGF165</molecule>
+<text>Produced by alternative promoter usage and alternative initiation. Starts at an alternative upstream CUG codon.</text>
+</comment>
+<comment type="miscellaneous">
+<molecule>Isoform L-VEGF121</molecule>
+<text>Produced by alternative promoter usage and alternative initiation. Starts at an alternative upstream CUG codon.</text>
+</comment>
+<comment type="miscellaneous">
+<molecule>Isoform L-VEGF206</molecule>
+<text evidence="29">Produced by alternative promoter usage and alternative initiation. Starts at an alternative upstream CUG codon.</text>
+</comment>
+<comment type="miscellaneous">
+<molecule>Isoform 15</molecule>
+<text evidence="29">Starts at an alternative upstream CUG codon.</text>
+</comment>
+<comment type="miscellaneous">
+<molecule>Isoform 16</molecule>
+<text evidence="29">Starts at an alternative upstream CUG codon.</text>
+</comment>
+<comment type="miscellaneous">
+<molecule>Isoform 17</molecule>
+<text evidence="29">Starts at an alternative upstream CUG codon.</text>
+</comment>
+<comment type="miscellaneous">
+<molecule>Isoform 18</molecule>
+<text evidence="29">Starts at an alternative upstream CUG codon.</text>
+</comment>
+<comment type="similarity">
+<text evidence="29">Belongs to the PDGF/VEGF growth factor family.</text>
+</comment>
+<comment type="sequence caution" evidence="29">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAC63102" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="29">
+<conflict type="miscellaneous discrepancy">
+<sequence resource="EMBL-CDS" id="AAC63143" version="1"/>
+</conflict>
+<text>Unusual initiator. The initiator methionine is coded by a non-canonical CTG leucine codon.</text>
+</comment>
+<comment type="online information" name="Wikipedia">
+<link uri="https://en.wikipedia.org/wiki/Vascular_endothelial_growth_factor"/>
+<text>VEGF entry</text>
+</comment>
+<dbReference type="EMBL" id="M32977">
+<property type="protein sequence ID" value="AAA35789.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M27281">
+<property type="protein sequence ID" value="AAA36807.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M63978">
+<property type="protein sequence ID" value="AAA36804.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M63971">
+<property type="protein sequence ID" value="AAA36804.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M63972">
+<property type="protein sequence ID" value="AAA36804.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M63973">
+<property type="protein sequence ID" value="AAA36804.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M63974">
+<property type="protein sequence ID" value="AAA36804.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M63975">
+<property type="protein sequence ID" value="AAA36804.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M63976">
+<property type="protein sequence ID" value="AAA36804.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M63977">
+<property type="protein sequence ID" value="AAA36804.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="S85192">
+<property type="protein sequence ID" value="AAC63102.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AH006909">
+<property type="protein sequence ID" value="AAC63101.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X62568">
+<property type="protein sequence ID" value="CAA44447.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ010438">
+<property type="protein sequence ID" value="CAA09179.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF022375">
+<property type="protein sequence ID" value="AAC63143.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF091352">
+<property type="protein sequence ID" value="AAD55345.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF430806">
+<property type="protein sequence ID" value="AAL27435.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB021221">
+<property type="protein sequence ID" value="BAA78418.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF214570">
+<property type="protein sequence ID" value="AAF19659.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY047581">
+<property type="protein sequence ID" value="AAK95847.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF486837">
+<property type="protein sequence ID" value="AAM03108.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY766116">
+<property type="protein sequence ID" value="AAV34601.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="DQ229900">
+<property type="protein sequence ID" value="ABB58912.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB451322">
+<property type="protein sequence ID" value="BAG70136.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB451451">
+<property type="protein sequence ID" value="BAG70265.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL136131">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471081">
+<property type="protein sequence ID" value="EAX04229.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC065522">
+<property type="protein sequence ID" value="AAH65522.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF437895">
+<property type="protein sequence ID" value="AAL27630.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF062645">
+<property type="protein sequence ID" value="AAC16730.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS34457.1">
+<molecule id="P15692-14"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS34458.1">
+<molecule id="P15692-11"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS47432.1">
+<molecule id="P15692-15"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS47433.1">
+<molecule id="P15692-16"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS47434.1">
+<molecule id="P15692-12"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS47435.1">
+<molecule id="P15692-17"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS4907.2">
+<molecule id="P15692-13"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS55007.1">
+<molecule id="P15692-18"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS55008.1">
+<molecule id="P15692-3"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS55009.1">
+<molecule id="P15692-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS55010.1">
+<molecule id="P15692-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS55011.1">
+<molecule id="P15692-5"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS55012.1">
+<molecule id="P15692-4"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS55013.1">
+<molecule id="P15692-8"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS55014.1">
+<molecule id="P15692-9"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS55015.1">
+<molecule id="P15692-10"/>
+</dbReference>
+<dbReference type="PIR" id="A41551">
+<property type="entry name" value="A41551"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001020537.2">
+<molecule id="P15692-14"/>
+<property type="nucleotide sequence ID" value="NM_001025366.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001020538.2">
+<molecule id="P15692-16"/>
+<property type="nucleotide sequence ID" value="NM_001025367.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001020539.2">
+<molecule id="P15692-11"/>
+<property type="nucleotide sequence ID" value="NM_001025368.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001020540.2">
+<molecule id="P15692-17"/>
+<property type="nucleotide sequence ID" value="NM_001025369.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001020541.2">
+<molecule id="P15692-12"/>
+<property type="nucleotide sequence ID" value="NM_001025370.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001028928.1">
+<molecule id="P15692-15"/>
+<property type="nucleotide sequence ID" value="NM_001033756.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001165093.1">
+<molecule id="P15692-18"/>
+<property type="nucleotide sequence ID" value="NM_001171622.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001165094.1">
+<molecule id="P15692-1"/>
+<property type="nucleotide sequence ID" value="NM_001171623.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001165095.1">
+<molecule id="P15692-2"/>
+<property type="nucleotide sequence ID" value="NM_001171624.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001165096.1">
+<molecule id="P15692-3"/>
+<property type="nucleotide sequence ID" value="NM_001171625.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001165097.1">
+<molecule id="P15692-4"/>
+<property type="nucleotide sequence ID" value="NM_001171626.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001165098.1">
+<molecule id="P15692-5"/>
+<property type="nucleotide sequence ID" value="NM_001171627.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001165099.1">
+<molecule id="P15692-9"/>
+<property type="nucleotide sequence ID" value="NM_001171628.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001165100.1">
+<molecule id="P15692-8"/>
+<property type="nucleotide sequence ID" value="NM_001171629.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001165101.1">
+<molecule id="P15692-10"/>
+<property type="nucleotide sequence ID" value="NM_001171630.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001191313.1">
+<molecule id="P15692-6"/>
+<property type="nucleotide sequence ID" value="NM_001204384.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001191314.1">
+<property type="nucleotide sequence ID" value="NM_001204385.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001273973.1">
+<property type="nucleotide sequence ID" value="NM_001287044.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001303939.1">
+<property type="nucleotide sequence ID" value="NM_001317010.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_003367.4">
+<molecule id="P15692-13"/>
+<property type="nucleotide sequence ID" value="NM_003376.5"/>
+</dbReference>
+<dbReference type="PDB" id="1BJ1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40 A"/>
+<property type="chains" value="V/W=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="1CZ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40 A"/>
+<property type="chains" value="V/W=220-313"/>
+</dbReference>
+<dbReference type="PDB" id="1FLT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70 A"/>
+<property type="chains" value="V/W=218-315"/>
+</dbReference>
+<dbReference type="PDB" id="1KAT">
+<property type="method" value="NMR"/>
+<property type="chains" value="V/W=217-315"/>
+</dbReference>
+<dbReference type="PDB" id="1KMX">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=346-395"/>
+</dbReference>
+<dbReference type="PDB" id="1MJV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10 A"/>
+<property type="chains" value="A/B=220-314"/>
+</dbReference>
+<dbReference type="PDB" id="1MKG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50 A"/>
+<property type="chains" value="A/B/C/D=220-314"/>
+</dbReference>
+<dbReference type="PDB" id="1MKK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.32 A"/>
+<property type="chains" value="A/B=220-314"/>
+</dbReference>
+<dbReference type="PDB" id="1QTY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70 A"/>
+<property type="chains" value="R/S/V/W=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="1TZH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60 A"/>
+<property type="chains" value="V/W=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="1TZI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80 A"/>
+<property type="chains" value="V=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="1VGH">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=183-395"/>
+</dbReference>
+<dbReference type="PDB" id="1VPF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50 A"/>
+<property type="chains" value="A/B/C/D=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="1VPP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90 A"/>
+<property type="chains" value="V/W=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="2FJG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80 A"/>
+<property type="chains" value="V/W=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="2FJH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10 A"/>
+<property type="chains" value="V/W=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="2QR0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50 A"/>
+<property type="chains" value="C/D/I/J/O/P/U/V=219-315"/>
+</dbReference>
+<dbReference type="PDB" id="2VGH">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=183-395"/>
+</dbReference>
+<dbReference type="PDB" id="2VPF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.93 A"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="3BDY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60 A"/>
+<property type="chains" value="V=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="3P9W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.41 A"/>
+<property type="chains" value="A/C/E/G=215-318"/>
+</dbReference>
+<dbReference type="PDB" id="3QTK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85 A"/>
+<property type="chains" value="A/B/C/D/E/F=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="3S1B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90 A"/>
+<property type="chains" value="V=218-313"/>
+</dbReference>
+<dbReference type="PDB" id="3S1K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55 A"/>
+<property type="chains" value="V/W=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="3V2A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20 A"/>
+<property type="chains" value="A=207-320"/>
+</dbReference>
+<dbReference type="PDB" id="4DEQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.65 A"/>
+<property type="chains" value="A/B=346-395"/>
+</dbReference>
+<dbReference type="PDB" id="4GLN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60 A"/>
+<property type="chains" value="E/F=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="4GLS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60 A"/>
+<property type="chains" value="E/F=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="4KZN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.71 A"/>
+<property type="chains" value="A=219-315"/>
+</dbReference>
+<dbReference type="PDB" id="4QAF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80 A"/>
+<property type="chains" value="C/D=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="4WPB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.11 A"/>
+<property type="chains" value="A/B=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="4ZFF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.75 A"/>
+<property type="chains" value="C/D=217-315"/>
+</dbReference>
+<dbReference type="PDB" id="5DN2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95 A"/>
+<property type="chains" value="E/F/G=368-395"/>
+</dbReference>
+<dbReference type="PDB" id="5FV1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70 A"/>
+<property type="chains" value="V/W=207-316"/>
+</dbReference>
+<dbReference type="PDB" id="5FV2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.45 A"/>
+<property type="chains" value="V/W/X=207-316"/>
+</dbReference>
+<dbReference type="PDB" id="5HHC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10 A"/>
+<property type="chains" value="A/B=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="5HHD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10 A"/>
+<property type="chains" value="A/B=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="5O4E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15 A"/>
+<property type="chains" value="E/F=219-314"/>
+</dbReference>
+<dbReference type="PDB" id="5T89">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="4.00 A"/>
+<property type="chains" value="V/W=207-335"/>
+</dbReference>
+<dbReference type="PDB" id="6BFT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55 A"/>
+<property type="chains" value="C/G=216-315"/>
+</dbReference>
+<dbReference type="PDB" id="6D3O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10 A"/>
+<property type="chains" value="A/B=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="6T9D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90 A"/>
+<property type="chains" value="CCC/DDD=207-321"/>
+</dbReference>
+<dbReference type="PDB" id="6V7K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50 A"/>
+<property type="chains" value="A/B=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="6Z13">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80 A"/>
+<property type="chains" value="V/W=219-313"/>
+</dbReference>
+<dbReference type="PDB" id="6Z3F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10 A"/>
+<property type="chains" value="V/W=219-313"/>
+</dbReference>
+<dbReference type="PDB" id="6ZBR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60 A"/>
+<property type="chains" value="V/W=219-313"/>
+</dbReference>
+<dbReference type="PDB" id="6ZCD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80 A"/>
+<property type="chains" value="V/W=219-313"/>
+</dbReference>
+<dbReference type="PDB" id="6ZFL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60 A"/>
+<property type="chains" value="V/W=219-313"/>
+</dbReference>
+<dbReference type="PDB" id="7KEZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.31 A"/>
+<property type="chains" value="V=207-316"/>
+</dbReference>
+<dbReference type="PDB" id="7KF0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.32 A"/>
+<property type="chains" value="C/V=207-316"/>
+</dbReference>
+<dbReference type="PDB" id="7KF1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45 A"/>
+<property type="chains" value="C/F/J/V=207-316"/>
+</dbReference>
+<dbReference type="PDB" id="7LL8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.31 A"/>
+<property type="chains" value="A/B=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="7LL9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90 A"/>
+<property type="chains" value="A/B/E/F=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="8UWZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50 A"/>
+<property type="chains" value="E/F=207-321"/>
+</dbReference>
+<dbReference type="PDB" id="9JU1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45 A"/>
+<property type="chains" value="A=214-315"/>
+</dbReference>
+<dbReference type="PDB" id="9KKU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.46 A"/>
+<property type="chains" value="A/B=214-315"/>
+</dbReference>
+<dbReference type="PDBsum" id="1BJ1"/>
+<dbReference type="PDBsum" id="1CZ8"/>
+<dbReference type="PDBsum" id="1FLT"/>
+<dbReference type="PDBsum" id="1KAT"/>
+<dbReference type="PDBsum" id="1KMX"/>
+<dbReference type="PDBsum" id="1MJV"/>
+<dbReference type="PDBsum" id="1MKG"/>
+<dbReference type="PDBsum" id="1MKK"/>
+<dbReference type="PDBsum" id="1QTY"/>
+<dbReference type="PDBsum" id="1TZH"/>
+<dbReference type="PDBsum" id="1TZI"/>
+<dbReference type="PDBsum" id="1VGH"/>
+<dbReference type="PDBsum" id="1VPF"/>
+<dbReference type="PDBsum" id="1VPP"/>
+<dbReference type="PDBsum" id="2FJG"/>
+<dbReference type="PDBsum" id="2FJH"/>
+<dbReference type="PDBsum" id="2QR0"/>
+<dbReference type="PDBsum" id="2VGH"/>
+<dbReference type="PDBsum" id="2VPF"/>
+<dbReference type="PDBsum" id="3BDY"/>
+<dbReference type="PDBsum" id="3P9W"/>
+<dbReference type="PDBsum" id="3QTK"/>
+<dbReference type="PDBsum" id="3S1B"/>
+<dbReference type="PDBsum" id="3S1K"/>
+<dbReference type="PDBsum" id="3V2A"/>
+<dbReference type="PDBsum" id="4DEQ"/>
+<dbReference type="PDBsum" id="4GLN"/>
+<dbReference type="PDBsum" id="4GLS"/>
+<dbReference type="PDBsum" id="4KZN"/>
+<dbReference type="PDBsum" id="4QAF"/>
+<dbReference type="PDBsum" id="4WPB"/>
+<dbReference type="PDBsum" id="4ZFF"/>
+<dbReference type="PDBsum" id="5DN2"/>
+<dbReference type="PDBsum" id="5FV1"/>
+<dbReference type="PDBsum" id="5FV2"/>
+<dbReference type="PDBsum" id="5HHC"/>
+<dbReference type="PDBsum" id="5HHD"/>
+<dbReference type="PDBsum" id="5O4E"/>
+<dbReference type="PDBsum" id="5T89"/>
+<dbReference type="PDBsum" id="6BFT"/>
+<dbReference type="PDBsum" id="6D3O"/>
+<dbReference type="PDBsum" id="6T9D"/>
+<dbReference type="PDBsum" id="6V7K"/>
+<dbReference type="PDBsum" id="6Z13"/>
+<dbReference type="PDBsum" id="6Z3F"/>
+<dbReference type="PDBsum" id="6ZBR"/>
+<dbReference type="PDBsum" id="6ZCD"/>
+<dbReference type="PDBsum" id="6ZFL"/>
+<dbReference type="PDBsum" id="7KEZ"/>
+<dbReference type="PDBsum" id="7KF0"/>
+<dbReference type="PDBsum" id="7KF1"/>
+<dbReference type="PDBsum" id="7LL8"/>
+<dbReference type="PDBsum" id="7LL9"/>
+<dbReference type="PDBsum" id="8UWZ"/>
+<dbReference type="PDBsum" id="9JU1"/>
+<dbReference type="PDBsum" id="9KKU"/>
+<dbReference type="AlphaFoldDB" id="P15692"/>
+<dbReference type="BMRB" id="P15692"/>
+<dbReference type="SMR" id="P15692"/>
+<dbReference type="BioGRID" id="113265">
+<property type="interactions" value="66"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-1977">
+<property type="entry name" value="Vascular endothelial growth factor A complex"/>
+</dbReference>
+<dbReference type="CORUM" id="P15692"/>
+<dbReference type="DIP" id="DIP-5740N"/>
+<dbReference type="FunCoup" id="P15692">
+<property type="interactions" value="1102"/>
+</dbReference>
+<dbReference type="IntAct" id="P15692">
+<property type="interactions" value="33"/>
+</dbReference>
+<dbReference type="MINT" id="P15692"/>
+<dbReference type="BindingDB" id="P15692"/>
+<dbReference type="ChEMBL" id="CHEMBL1783"/>
+<dbReference type="DrugBank" id="DB05434">
+<property type="generic name" value="ABT-510"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08885">
+<property type="generic name" value="Aflibercept"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00112">
+<property type="generic name" value="Bevacizumab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB06642">
+<property type="generic name" value="Bevasiranib"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB14864">
+<property type="generic name" value="Brolucizumab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01136">
+<property type="generic name" value="Carvedilol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB09301">
+<property type="generic name" value="Chondroitin sulfate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB06779">
+<property type="generic name" value="Dalteparin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB05932">
+<property type="generic name" value="Denibulin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB15303">
+<property type="generic name" value="Faricimab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB10772">
+<property type="generic name" value="Foreskin keratinocyte (neonatal)"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01120">
+<property type="generic name" value="Gliclazide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01017">
+<property type="generic name" value="Minocycline"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB12818">
+<property type="generic name" value="NM-3"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04895">
+<property type="generic name" value="Pegaptanib"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03088">
+<property type="generic name" value="Pidolic acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01270">
+<property type="generic name" value="Ranibizumab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB14911">
+<property type="generic name" value="Risuteganib"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB05969">
+<property type="generic name" value="SNS-032"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB06461">
+<property type="generic name" value="Squalamine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB05075">
+<property type="generic name" value="TG-100801"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB05294">
+<property type="generic name" value="Vandetanib"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB12317">
+<property type="generic name" value="Vanucizumab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB05890">
+<property type="generic name" value="Veglin"/>
+</dbReference>
+<dbReference type="DrugCentral" id="P15692"/>
+<dbReference type="MoonDB" id="P15692">
+<property type="type" value="Predicted"/>
+</dbReference>
+<dbReference type="TCDB" id="8.A.245.1.1">
+<property type="family name" value="the vascular endothelial growth factor (vegf) family"/>
+</dbReference>
+<dbReference type="GlyCosmos" id="P15692">
+<property type="glycosylation" value="1 site, No reported glycans"/>
+</dbReference>
+<dbReference type="GlyGen" id="P15692">
+<property type="glycosylation" value="1 site, 1 N-linked glycan (1 site)"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P15692"/>
+<dbReference type="PhosphoSitePlus" id="P15692"/>
+<dbReference type="BioMuta" id="VEGFA"/>
+<dbReference type="DMDM" id="17380528"/>
+<dbReference type="jPOST" id="P15692"/>
+<dbReference type="MassIVE" id="P15692"/>
+<dbReference type="PaxDb" id="9606-ENSP00000478570"/>
+<dbReference type="PeptideAtlas" id="P15692"/>
+<dbReference type="ProteomicsDB" id="34350"/>
+<dbReference type="ProteomicsDB" id="34645"/>
+<dbReference type="ProteomicsDB" id="34652"/>
+<dbReference type="ProteomicsDB" id="34682"/>
+<dbReference type="ProteomicsDB" id="35749"/>
+<dbReference type="ProteomicsDB" id="40743"/>
+<dbReference type="ProteomicsDB" id="53195">
+<molecule id="P15692-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53196">
+<molecule id="P15692-10"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53197">
+<molecule id="P15692-11"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53198">
+<molecule id="P15692-12"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53199">
+<molecule id="P15692-13"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53200">
+<molecule id="P15692-14"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53201">
+<molecule id="P15692-2"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53202">
+<molecule id="P15692-3"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53203">
+<molecule id="P15692-4"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53204">
+<molecule id="P15692-5"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53205">
+<molecule id="P15692-6"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53206">
+<molecule id="P15692-8"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53207">
+<molecule id="P15692-9"/>
+</dbReference>
+<dbReference type="ABCD" id="P15692">
+<property type="antibodies" value="32 sequenced antibodies"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="3956">
+<property type="antibodies" value="2855 antibodies from 55 providers"/>
+</dbReference>
+<dbReference type="CPTC" id="P15692">
+<property type="antibodies" value="1 antibody"/>
+</dbReference>
+<dbReference type="DNASU" id="7422"/>
+<dbReference type="Ensembl" id="ENST00000324450.11">
+<molecule id="P15692-18"/>
+<property type="protein sequence ID" value="ENSP00000317598.7"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000372055.9">
+<molecule id="P15692-14"/>
+<property type="protein sequence ID" value="ENSP00000361125.5"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000372064.9">
+<molecule id="P15692-12"/>
+<property type="protein sequence ID" value="ENSP00000361134.5"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000372067.8">
+<molecule id="P15692-11"/>
+<property type="protein sequence ID" value="ENSP00000361137.4"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000372077.8">
+<molecule id="P15692-9"/>
+<property type="protein sequence ID" value="ENSP00000361148.4"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000413642.8">
+<molecule id="P15692-16"/>
+<property type="protein sequence ID" value="ENSP00000389864.4"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000417285.7">
+<molecule id="P15692-17"/>
+<property type="protein sequence ID" value="ENSP00000388663.3"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000457104.6">
+<molecule id="P15692-10"/>
+<property type="protein sequence ID" value="ENSP00000409911.2"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000482630.7">
+<molecule id="P15692-15"/>
+<property type="protein sequence ID" value="ENSP00000421561.2"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000518689.5">
+<molecule id="P15692-3"/>
+<property type="protein sequence ID" value="ENSP00000430829.1"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000518824.5">
+<molecule id="P15692-8"/>
+<property type="protein sequence ID" value="ENSP00000430002.1"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000520948.5">
+<molecule id="P15692-2"/>
+<property type="protein sequence ID" value="ENSP00000428321.1"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000523125.5">
+<molecule id="P15692-5"/>
+<property type="protein sequence ID" value="ENSP00000429008.1"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000523873.5">
+<molecule id="P15692-1"/>
+<property type="protein sequence ID" value="ENSP00000430479.1"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000523950.5">
+<molecule id="P15692-4"/>
+<property type="protein sequence ID" value="ENSP00000429643.1"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000672860.3">
+<molecule id="P15692-13"/>
+<property type="protein sequence ID" value="ENSP00000500082.3"/>
+<property type="gene ID" value="ENSG00000112715.26"/>
+</dbReference>
+<dbReference type="GeneID" id="7422"/>
+<dbReference type="KEGG" id="hsa:7422"/>
+<dbReference type="MANE-Select" id="ENST00000672860.3">
+<property type="protein sequence ID" value="ENSP00000500082.3"/>
+<property type="RefSeq nucleotide sequence ID" value="NM_003376.6"/>
+<property type="RefSeq protein sequence ID" value="NP_003367.4"/>
+</dbReference>
+<dbReference type="UCSC" id="uc003owd.5">
+<molecule id="P15692-13"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="AGR" id="HGNC:12680"/>
+<dbReference type="CIViC" id="7422">
+<property type="evidences" value="15 evidence items across 9 molecular profiles"/>
+</dbReference>
+<dbReference type="ClinPGx" id="PA37302"/>
+<dbReference type="CTD" id="7422"/>
+<dbReference type="DisGeNET" id="7422"/>
+<dbReference type="GeneCards" id="VEGFA"/>
+<dbReference type="HGNC" id="HGNC:12680">
+<property type="gene designation" value="VEGFA"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000112715">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="VEGFA"/>
+<dbReference type="MIM" id="192240">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="603933">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000112715"/>
+<dbReference type="VEuPathDB" id="HostDB:ENSG00000112715"/>
+<dbReference type="eggNOG" id="ENOG502QVI8">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000157284"/>
+<dbReference type="HOGENOM" id="CLU_042996_3_0_1"/>
+<dbReference type="InParanoid" id="P15692"/>
+<dbReference type="OMA" id="HDLECEC"/>
+<dbReference type="OrthoDB" id="6370328at2759"/>
+<dbReference type="PAN-GO" id="P15692">
+<property type="GO annotations" value="14 GO annotations based on evolutionary models"/>
+</dbReference>
+<dbReference type="PhylomeDB" id="P15692"/>
+<dbReference type="PathwayCommons" id="P15692"/>
+<dbReference type="Reactome" id="R-HSA-114608">
+<property type="pathway name" value="Platelet degranulation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1234158">
+<property type="pathway name" value="Regulation of gene expression by Hypoxia-inducible Factor"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-194138">
+<property type="pathway name" value="Signaling by VEGF"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-194313">
+<property type="pathway name" value="VEGF ligand-receptor interactions"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-195399">
+<property type="pathway name" value="VEGF binds to VEGFR leading to receptor dimerization"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4420097">
+<molecule id="P15692-4"/>
+<property type="pathway name" value="VEGFA-VEGFR2 Pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5218921">
+<molecule id="P15692-4"/>
+<property type="pathway name" value="VEGFR2 mediated cell proliferation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6785807">
+<property type="pathway name" value="Interleukin-4 and Interleukin-13 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8866910">
+<property type="pathway name" value="TFAP2 (AP-2) family regulates transcription of growth factors and their receptors"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9679191">
+<molecule id="P15692-4"/>
+<property type="pathway name" value="Potential therapeutics for SARS"/>
+</dbReference>
+<dbReference type="SignaLink" id="P15692"/>
+<dbReference type="SIGNOR" id="P15692"/>
+<dbReference type="Agora" id="ENSG00000112715">
+<property type="nominated target" value="Agora Nominated Target for Alzheimer's Disease"/>
+</dbReference>
+<dbReference type="BioGRID-ORCS" id="7422">
+<property type="hits" value="14 hits in 1166 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="VEGFA">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P15692"/>
+<dbReference type="GeneWiki" id="Vascular_endothelial_growth_factor_A"/>
+<dbReference type="GenomeRNAi" id="7422"/>
+<dbReference type="Pharos" id="P15692">
+<property type="development level" value="Tclin"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P15692"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 6"/>
+</dbReference>
+<dbReference type="RNAct" id="P15692">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000112715">
+<property type="expression patterns" value="Expressed in right lobe of thyroid gland and 203 other cell types or tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P15692">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005912">
+<property type="term" value="C:adherens junction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009986">
+<property type="term" value="C:cell surface"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031012">
+<property type="term" value="C:extracellular matrix"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031093">
+<property type="term" value="C:platelet alpha granule lumen"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030141">
+<property type="term" value="C:secretory granule"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990150">
+<property type="term" value="C:VEGF-A complex"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="ComplexPortal"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042056">
+<property type="term" value="F:chemoattractant activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005125">
+<property type="term" value="F:cytokine activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050840">
+<property type="term" value="F:extracellular matrix binding"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001968">
+<property type="term" value="F:fibronectin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008083">
+<property type="term" value="F:growth factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008201">
+<property type="term" value="F:heparin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038191">
+<property type="term" value="F:neuropilin binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005161">
+<property type="term" value="F:platelet-derived growth factor receptor binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048018">
+<property type="term" value="F:receptor ligand activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030297">
+<property type="term" value="F:transmembrane receptor protein tyrosine kinase activator activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043183">
+<property type="term" value="F:vascular endothelial growth factor receptor 1 binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043184">
+<property type="term" value="F:vascular endothelial growth factor receptor 2 binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005172">
+<property type="term" value="F:vascular endothelial growth factor receptor binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001525">
+<property type="term" value="P:angiogenesis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006915">
+<property type="term" value="P:apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048844">
+<property type="term" value="P:artery morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002575">
+<property type="term" value="P:basophil chemotaxis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060346">
+<property type="term" value="P:bone trabecula formation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001569">
+<property type="term" value="P:branching involved in blood vessel morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048593">
+<property type="term" value="P:camera-type eye morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055013">
+<property type="term" value="P:cardiac muscle cell development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060948">
+<property type="term" value="P:cardiac vascular smooth muscle cell development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048469">
+<property type="term" value="P:cell maturation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002042">
+<property type="term" value="P:cell migration involved in sprouting angiogenesis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098609">
+<property type="term" value="P:cell-cell adhesion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071456">
+<property type="term" value="P:cellular response to hypoxia"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035924">
+<property type="term" value="P:cellular response to vascular endothelial growth factor stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097533">
+<property type="term" value="P:cellular stress response to acid chemical"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071679">
+<property type="term" value="P:commissural neuron axon guidance"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060982">
+<property type="term" value="P:coronary artery morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003169">
+<property type="term" value="P:coronary vein morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071542">
+<property type="term" value="P:dopaminergic neuron differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035767">
+<property type="term" value="P:endothelial cell chemotaxis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001935">
+<property type="term" value="P:endothelial cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030855">
+<property type="term" value="P:epithelial cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002070">
+<property type="term" value="P:epithelial cell maturation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042462">
+<property type="term" value="P:eye photoreceptor cell development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003007">
+<property type="term" value="P:heart morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048873">
+<property type="term" value="P:homeostasis of number of cells within a tissue"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001701">
+<property type="term" value="P:in utero embryonic development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050930">
+<property type="term" value="P:induction of positive chemotaxis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001822">
+<property type="term" value="P:kidney development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007595">
+<property type="term" value="P:lactation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030324">
+<property type="term" value="P:lung development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060426">
+<property type="term" value="P:lung vasculature development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036303">
+<property type="term" value="P:lymph vessel morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001946">
+<property type="term" value="P:lymphangiogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030225">
+<property type="term" value="P:macrophage differentiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="DFLAT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060749">
+<property type="term" value="P:mammary gland alveolus development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007498">
+<property type="term" value="P:mesoderm development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030224">
+<property type="term" value="P:monocyte differentiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="DFLAT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097475">
+<property type="term" value="P:motor neuron migration"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903392">
+<property type="term" value="P:negative regulation of adherens junction organization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905604">
+<property type="term" value="P:negative regulation of blood-brain barrier permeability"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000048">
+<property type="term" value="P:negative regulation of cell-cell adhesion mediated by cadherin"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010719">
+<property type="term" value="P:negative regulation of epithelial to mesenchymal transition"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903141">
+<property type="term" value="P:negative regulation of establishment of endothelial barrier"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045599">
+<property type="term" value="P:negative regulation of fat cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010629">
+<property type="term" value="P:negative regulation of gene expression"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902894">
+<property type="term" value="P:negative regulation of miRNA transcription"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007399">
+<property type="term" value="P:nervous system development"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007405">
+<property type="term" value="P:neuroblast proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003151">
+<property type="term" value="P:outflow tract morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001541">
+<property type="term" value="P:ovarian follicle development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007200">
+<property type="term" value="P:phospholipase C-activating G protein-coupled receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050918">
+<property type="term" value="P:positive chemotaxis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045766">
+<property type="term" value="P:positive regulation of angiogenesis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048842">
+<property type="term" value="P:positive regulation of axon extension involved in axon guidance"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905555">
+<property type="term" value="P:positive regulation of blood vessel branching"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043536">
+<property type="term" value="P:positive regulation of blood vessel endothelial cell migration"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903589">
+<property type="term" value="P:positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090190">
+<property type="term" value="P:positive regulation of branching involved in ureteric bud morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043123">
+<property type="term" value="P:positive regulation of canonical NF-kappaB signal transduction"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045785">
+<property type="term" value="P:positive regulation of cell adhesion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051781">
+<property type="term" value="P:positive regulation of cell division"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030335">
+<property type="term" value="P:positive regulation of cell migration"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090050">
+<property type="term" value="P:positive regulation of cell migration involved in sprouting angiogenesis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038091">
+<property type="term" value="P:positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0120162">
+<property type="term" value="P:positive regulation of cold-induced thermogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="YuBioLab"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000573">
+<property type="term" value="P:positive regulation of DNA biosynthetic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001028">
+<property type="term" value="P:positive regulation of endothelial cell chemotaxis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038033">
+<property type="term" value="P:positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ComplexPortal"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010595">
+<property type="term" value="P:positive regulation of endothelial cell migration"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001938">
+<property type="term" value="P:positive regulation of endothelial cell proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050679">
+<property type="term" value="P:positive regulation of epithelial cell proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905278">
+<property type="term" value="P:positive regulation of epithelial tube formation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070374">
+<property type="term" value="P:positive regulation of ERK1 and ERK2 cascade"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051894">
+<property type="term" value="P:positive regulation of focal adhesion assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002687">
+<property type="term" value="P:positive regulation of leukocyte migration"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901492">
+<property type="term" value="P:positive regulation of lymphangiogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043410">
+<property type="term" value="P:positive regulation of MAPK cascade"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060754">
+<property type="term" value="P:positive regulation of mast cell chemotaxis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002052">
+<property type="term" value="P:positive regulation of neuroblast proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045669">
+<property type="term" value="P:positive regulation of osteoblast differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050731">
+<property type="term" value="P:positive regulation of peptidyl-tyrosine phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051897">
+<property type="term" value="P:positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050927">
+<property type="term" value="P:positive regulation of positive chemotaxis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031954">
+<property type="term" value="P:positive regulation of protein autophosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902966">
+<property type="term" value="P:positive regulation of protein localization to early endosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001934">
+<property type="term" value="P:positive regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031334">
+<property type="term" value="P:positive regulation of protein-containing complex assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002092">
+<property type="term" value="P:positive regulation of receptor internalization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903672">
+<property type="term" value="P:positive regulation of sprouting angiogenesis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901165">
+<property type="term" value="P:positive regulation of trophoblast cell migration"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900748">
+<property type="term" value="P:positive regulation of vascular endothelial growth factor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ComplexPortal"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043117">
+<property type="term" value="P:positive regulation of vascular permeability"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031077">
+<property type="term" value="P:post-embryonic camera-type eye development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060319">
+<property type="term" value="P:primitive erythrocyte differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008360">
+<property type="term" value="P:regulation of cell shape"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901532">
+<property type="term" value="P:regulation of hematopoietic progenitor cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010749">
+<property type="term" value="P:regulation of nitric oxide mediated signal transduction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006357">
+<property type="term" value="P:regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001666">
+<property type="term" value="P:response to hypoxia"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031290">
+<property type="term" value="P:retinal ganglion cell axon guidance"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002040">
+<property type="term" value="P:sprouting angiogenesis"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043129">
+<property type="term" value="P:surfactant homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035148">
+<property type="term" value="P:tube formation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048010">
+<property type="term" value="P:vascular endothelial growth factor receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036324">
+<property type="term" value="P:vascular endothelial growth factor receptor-2 signaling pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038084">
+<property type="term" value="P:vascular endothelial growth factor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061042">
+<property type="term" value="P:vascular wound healing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001570">
+<property type="term" value="P:vasculogenesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042311">
+<property type="term" value="P:vasodilation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038190">
+<property type="term" value="P:VEGF-activated neuropilin signaling pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="CDD" id="cd00135">
+<property type="entry name" value="PDGF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="FunFam" id="2.10.160.10:FF:000001">
+<property type="entry name" value="Vascular endothelial growth factor A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="FunFam" id="2.10.90.10:FF:000009">
+<property type="entry name" value="Vascular endothelial growth factor A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.10.90.10">
+<property type="entry name" value="Cystine-knot cytokines"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.10.160.10">
+<property type="entry name" value="Vascular endothelial growth factor, heparin-binding domain"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029034">
+<property type="entry name" value="Cystine-knot_cytokine"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023581">
+<property type="entry name" value="PD_growth_factor_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000072">
+<property type="entry name" value="PDGF/VEGF_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR050507">
+<property type="entry name" value="PDGF/VEGF_growth_factor"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027928">
+<property type="entry name" value="VEGF_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036841">
+<property type="entry name" value="VEGF_C_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12025">
+<property type="entry name" value="VASCULAR ENDOTHELIAL GROWTH FACTOR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12025:SF5">
+<property type="entry name" value="VASCULAR ENDOTHELIAL GROWTH FACTOR A, LONG FORM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00341">
+<property type="entry name" value="PDGF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14554">
+<property type="entry name" value="VEGF_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00141">
+<property type="entry name" value="PDGF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57501">
+<property type="entry name" value="Cystine-knot cytokines"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57593">
+<property type="entry name" value="Heparin-binding domain from vascular endothelial growth factor"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00249">
+<property type="entry name" value="PDGF_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50278">
+<property type="entry name" value="PDGF_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0024">Alternative initiation</keyword>
+<keyword id="KW-0877">Alternative promoter usage</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0037">Angiogenesis</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0256">Endoplasmic reticulum</keyword>
+<keyword id="KW-0272">Extracellular matrix</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0333">Golgi apparatus</keyword>
+<keyword id="KW-0339">Growth factor</keyword>
+<keyword id="KW-0358">Heparin-binding</keyword>
+<keyword id="KW-0497">Mitogen</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-1267">Proteomics identification</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<feature type="chain" id="PRO_0000458064" description="Vascular endothelial growth factor A, long form">
+<location>
+<begin position="1"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="chain" id="PRO_0000458065" description="N-VEGF" evidence="7">
+<location>
+<begin position="1"/>
+<end status="unknown"/>
+</location>
+</feature>
+<feature type="chain" id="PRO_0000458066" description="VEGFA" evidence="7">
+<location>
+<begin status="unknown"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="region of interest" description="Disordered" evidence="3">
+<location>
+<begin position="1"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="region of interest" description="Disordered" evidence="3">
+<location>
+<begin position="73"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="region of interest" description="Disordered" evidence="3">
+<location>
+<begin position="314"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Low complexity" evidence="3">
+<location>
+<begin position="73"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Acidic residues" evidence="3">
+<location>
+<begin position="91"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Low complexity" evidence="3">
+<location>
+<begin position="123"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Low complexity" evidence="3">
+<location>
+<begin position="165"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Basic and acidic residues" evidence="3">
+<location>
+<begin position="314"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Basic residues" evidence="3">
+<location>
+<begin position="324"/>
+<end position="340"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine">
+<location>
+<position position="281"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="232"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="Interchain">
+<location>
+<position position="257"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="263"/>
+<end position="308"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="Interchain">
+<location>
+<position position="266"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="267"/>
+<end position="310"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061891" description="In isoform VEGF206, isoform VEGF189, isoform VEGF183, isoform VEGF165, isoform VEGF148, isoform VEGF145, isoform VEGF165B, isoform VEGF121 and isoform VEGF111." evidence="4 9 15 17 22 24 25 26">
+<location>
+<begin position="1"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061892" description="In isoform VEGF111 and isoform 18." evidence="26">
+<original>PKKDRA</original>
+<variation>CDKPRR</variation>
+<location>
+<begin position="312"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061893" description="In isoform VEGF111 and isoform 18." evidence="26">
+<location>
+<begin position="318"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061894" description="In isoform VEGF165, isoform VEGF148, isoform VEGF165B, isoform L-VEGF165, isoform 15 and isoform 17." evidence="4 9 17 23">
+<original>KKSVRGKGKGQKRKRKKSRYKSWSV</original>
+<variation>N</variation>
+<location>
+<begin position="321"/>
+<end position="345"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061895" description="In isoform VEGF121 and isoform L-VEGF121." evidence="10 25">
+<original>KSVRGK</original>
+<variation>CDKPRR</variation>
+<location>
+<begin position="322"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061896" description="In isoform VEGF121 and isoform L-VEGF121." evidence="10 25">
+<location>
+<begin position="328"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061897" description="In isoform VEGF183 and isoform 16." evidence="24">
+<original>RYKSWSV</original>
+<variation>R</variation>
+<location>
+<begin position="339"/>
+<end position="345"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061898" description="In isoform VEGF206 and isoform L-VEGF206." evidence="15">
+<original>V</original>
+<variation>VYVGARCCLMPWSLPGPH</variation>
+<location>
+<position position="345"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061899" description="In isoform VEGF145." evidence="22">
+<original>PCGPCS</original>
+<variation>CDKPRR</variation>
+<location>
+<begin position="346"/>
+<end position="351"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061900" description="In isoform VEGF145." evidence="22">
+<location>
+<begin position="352"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061901" description="In isoform VEGF148 and isoform 17." evidence="4">
+<original>A</original>
+<variation>M</variation>
+<location>
+<position position="378"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061902" description="In isoform VEGF148 and isoform 17." evidence="4">
+<location>
+<begin position="379"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="splice variant" id="VSP_061903" description="In isoform VEGF165B and isoform 15." evidence="9">
+<original>CDKPRR</original>
+<variation>SLTRKD</variation>
+<location>
+<begin position="390"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 8; AAC63143." evidence="29" ref="8">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="267"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 8; AAC63143." evidence="29" ref="8">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="373"/>
+</location>
+</feature>
+<feature type="helix" evidence="31">
+<location>
+<begin position="223"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="strand" evidence="31">
+<location>
+<begin position="231"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="helix" evidence="31">
+<location>
+<begin position="241"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="helix" evidence="31">
+<location>
+<begin position="246"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="strand" evidence="31">
+<location>
+<begin position="251"/>
+<end position="264"/>
+</location>
+</feature>
+<feature type="strand" evidence="31">
+<location>
+<begin position="273"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="turn" evidence="33">
+<location>
+<begin position="291"/>
+<end position="293"/>
+</location>
+</feature>
+<feature type="strand" evidence="31">
+<location>
+<begin position="296"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="strand" evidence="32">
+<location>
+<begin position="352"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="strand" evidence="32">
+<location>
+<begin position="357"/>
+<end position="360"/>
+</location>
+</feature>
+<feature type="turn" evidence="32">
+<location>
+<begin position="362"/>
+<end position="364"/>
+</location>
+</feature>
+<feature type="strand" evidence="32">
+<location>
+<begin position="367"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="helix" evidence="32">
+<location>
+<begin position="373"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="turn" evidence="32">
+<location>
+<begin position="378"/>
+<end position="380"/>
+</location>
+</feature>
+<feature type="strand" evidence="30">
+<location>
+<begin position="382"/>
+<end position="384"/>
+</location>
+</feature>
+<feature type="turn" evidence="32">
+<location>
+<begin position="385"/>
+<end position="387"/>
+</location>
+</feature>
+<feature type="strand" evidence="30">
+<location>
+<begin position="389"/>
+<end position="391"/>
+</location>
+</feature>
+<evidence type="ECO:0000250" key="1">
+<source>
+<dbReference type="UniProtKB" id="P16612"/>
+</source>
+</evidence>
+<evidence type="ECO:0000250" key="2">
+<source>
+<dbReference type="UniProtKB" id="Q00731"/>
+</source>
+</evidence>
+<evidence type="ECO:0000256" key="3">
+<source>
+<dbReference type="SAM" id="MobiDB-lite"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="4">
+<source>
+<dbReference type="PubMed" id="10464055"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="5">
+<source>
+<dbReference type="PubMed" id="11427521"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="6">
+<source>
+<dbReference type="PubMed" id="11563986"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="7">
+<source>
+<dbReference type="PubMed" id="11731620"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="8">
+<source>
+<dbReference type="PubMed" id="11978667"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="9">
+<source>
+<dbReference type="PubMed" id="12124351"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="10">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="11">
+<source>
+<dbReference type="PubMed" id="15520188"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="12">
+<source>
+<dbReference type="PubMed" id="15896327"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="13">
+<source>
+<dbReference type="PubMed" id="16489009"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="14">
+<source>
+<dbReference type="PubMed" id="17446437"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="15">
+<source>
+<dbReference type="PubMed" id="1791831"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="16">
+<source>
+<dbReference type="PubMed" id="22009797"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="17">
+<source>
+<dbReference type="PubMed" id="2479986"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="18">
+<source>
+<dbReference type="PubMed" id="25825981"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="19">
+<source>
+<dbReference type="PubMed" id="26503042"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="20">
+<source>
+<dbReference type="PubMed" id="34530889"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="21">
+<source>
+<dbReference type="PubMed" id="35455969"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="22">
+<source>
+<dbReference type="PubMed" id="9054410"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="23">
+<source>
+<dbReference type="PubMed" id="9450968"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="24">
+<source>
+<dbReference type="PubMed" id="9878851"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="25">
+<source ref="12"/>
+</evidence>
+<evidence type="ECO:0000269" key="26">
+<source ref="16"/>
+</evidence>
+<evidence type="ECO:0000303" key="27">
+<source>
+<dbReference type="PubMed" id="11731620"/>
+</source>
+</evidence>
+<evidence type="ECO:0000303" key="28">
+<source>
+<dbReference type="PubMed" id="35455969"/>
+</source>
+</evidence>
+<evidence type="ECO:0000305" key="29"/>
+<evidence type="ECO:0007829" key="30">
+<source>
+<dbReference type="PDB" id="1KMX"/>
+</source>
+</evidence>
+<evidence type="ECO:0007829" key="31">
+<source>
+<dbReference type="PDB" id="1MKK"/>
+</source>
+</evidence>
+<evidence type="ECO:0007829" key="32">
+<source>
+<dbReference type="PDB" id="4DEQ"/>
+</source>
+</evidence>
+<evidence type="ECO:0007829" key="33">
+<source>
+<dbReference type="PDB" id="4GLN"/>
+</source>
+</evidence>
+<sequence length="395" mass="43597" checksum="8ADF6524B1835A2D" modified="2023-06-28" version="3" precursor="true">MTDRQTDTAPSPSYHLLPGRRRTVDAAASRGQGPEPAPGGGVEGVGARGVALKLFVQLLGCSRFGGAVVRAGEAEPSGAARSASSGREEPQPEEGEEEEEKEEERGPQWRLGARKPGSWTGEAAVCADSAPAARAPQALARASGRGGRVARRGAEESGPPHSPSRRGSASRAGPGRASETMNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEMSFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR</sequence>
+</entry>
+<copyright> Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms Distributed under the Creative Commons Attribution (CC BY 4.0) License </copyright>
+</uniprot>
