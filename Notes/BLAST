@@ -1,0 +1,34 @@
+BLAST (Basic Local Alignment Search Tool)
+## 📌 Purpose
+
+BLAST compares biological sequences to identify similarities.
+
+## 📌 Types of BLAST
+BLASTn
+BLASTp
+BLASTx
+tBLASTn
+tBLASTx
+
+##📌 Key Parameters
+E-value
+Query coverage
+Identity percentage
+Score
+
+##📌 Applications
+Homology search
+Functional prediction
+Species identification
+Conserved sequence analysis
+
+## 📌 Important Outputs
+Alignment table
+Similarity scores
+Pairwise alignment
+
+##📌 Files to Upload
+BLAST screenshots
+Alignment outputs
+Result tables
+Interpretation notes
