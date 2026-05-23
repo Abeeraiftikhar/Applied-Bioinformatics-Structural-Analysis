@@ -1,0 +1,26 @@
+Clustal Omega
+##📌 Purpose
+
+Clustal Omega performs Multiple Sequence Alignment (MSA).
+
+## 📌 Applications
+Sequence comparison
+Conserved residue analysis
+Evolutionary studies
+Functional analysis
+
+##📌 Output Files
+ALN format
+Clustal output
+Alignment figures
+
+##📌 Workflow
+Upload FASTA sequences
+Run alignment
+Download aligned file
+Analyze conserved regions
+
+##📌 Files to Upload
+Alignment file
+Conserved region screenshots
+Alignment figures
