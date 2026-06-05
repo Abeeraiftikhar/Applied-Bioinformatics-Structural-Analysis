@@ -1,0 +1,38 @@
+# DNA_sequence 
+atggtgagcaagggcgaggagctgttcaccggggtggtgcccatcctggtcgagctggacggcgacgtaaacggccacaagttcagcgtgtccggcgagggcgagggcgatgccacctacggcaagctgaccctgaagttcatctgcaccaccggcaagctgcccgtgccctggcccaccctcgtgaccaccctgacctacggcgtgcagtgcttcagccgctaccccgaccacatgaagcagcacgacttcttcaagtccgccatgcccgaaggctacgtccaggagcgcaccatcttcttcaaggacgacggcaactacaagacccgcgccgaggtgaagttcgagggcgacaccctggtgaaccgcatcgagctgaagggcatcgacttcaaggaggacggcaacatcctggggcacaagctggagtacaactacaacagccacaacgtctatatcatggccgacaagcagaagaacggcatcaaggtgaacttcaagatccgccacaacatcgaggacggcagcgtgcagctcgccgaccactaccagcagaacacccccatcggcgacggccccgtgctgctgcccgacaaccactacctgagcacccagtccgccctgagcaaagaccccaacgagaagcgcgatcacatggtcctgctggagttcgtgaccgccgccgggatcactctcggcatggacgagctgtacaagtaa
+# 
+                        5'3' Frame 1
+                    
+
+                        MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITLGMDELYK-
+                    
+# 
+                        5'3' Frame 2
+                    
+
+                        W-ARARSCSPGWCPSWSSWTAT-TATSSACPARARAMPPTAS-P-SSSAPPASCPCPGPPS-PP-PTACSASAATPTT-SSTTSSSPPCPKATSRSAPSSSRTTATTRPAPR-SSRATPW-TASS-RASTSRRTATSWGTSWSTTTTATTSISWPTSRRTASR-TSRSATTSRTAACSSPTTTSRTPPSATAPCCCPTTTT-APSPP-AKTPTRSAITWSCWSS-PPPGSLSAWTSCTS
+                    
+# 
+                        5'3' Frame 3
+                    
+
+                        GEQGRGAVHRGGAHPGRAGRRRKRPQVQRVRRGRGRCHLRQADPEVHLHHRQAARALAHPRDHPDLRRAVLQPLPRPHEAARLLQVRHARRLRPGAHHLLQGRRQLQDPRRGEVRGRHPGEPHRAEGHRLQGGRQHPGAQAGVQLQQPQRLYHGRQAEERHQGELQDPPQHRGRQRAARRPLPAEHPHRRRPRAAARQPLPEHPVRPEQRPQREARSHGPAGVRDRRRDHSRHGRAVQV
+                    
+# 
+                        3'5' Frame 1
+                    
+
+                        LLVQLVHAESDPGGGHELQQDHVIALLVGVFAQGGLGAQVVVVGQQHGAVADGGVLLVVVGELHAAVLDVVADLEVHLDAVLLLVGHDIDVVAVVVVLQLVPQDVAVLLEVDALQLDAVHQGVALELHLGAGLVVAVVLEEDGALLDVAFGHGGLEEVVLLHVVGVAAEALHAVGQGGHEGGPGHGQLAGGADELQGQLAVGGIALALAGHAELVAVYVAVQLDQDGHHPGEQLLALAHH
+                    
+# 
+                        3'5' Frame 2
+                    
+
+                        YLYSSSMPRVIPAAVTNSSRTM-SRFSLGSLLRADWVLR-WLSGSSTGPSPMGVFCW-WSASCTLPSSMLWRILKFTLMPFFCLSAMI-TLWLL-LYSSLCPRMLPSSLKSMPFSSMRFTRVSPSNFTSARVL-LPSSLKKMVRSWT-PSGMADLKKSCCFMWSG-RLKHCTP-VRVVTRVGQGTGSLPVVQMNFRVSLP-VASPSPSPDTLNLWPFTSPSSSTRMGTTPVNSSSPLLT
+                    
+# 
+                        3'5' Frame 3
+                    
+
+                        TCTARPCRE-SRRRSRTPAGPCDRASRWGLCSGRTGCSGSGCRAAARGRRRWGCSAGSGRRAARCRPRCCGGS-SSP-CRSSACRP-YRRCGCCSCTPACAPGCCRPP-SRCPSARCGSPGCRPRTSPRRGSCSCRRP-RRWCAPGRSLRAWRT-RSRAASCGRGSG-STARRRSGWSRGWARARAACRWCR-TSGSACRRWHRPRPRRTR-TCGRLRRRPARPGWAPPR-TAPRPCSP
+                    
