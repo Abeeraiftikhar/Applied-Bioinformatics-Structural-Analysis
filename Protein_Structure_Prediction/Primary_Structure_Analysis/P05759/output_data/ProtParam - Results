@@ -1,0 +1,81 @@
+ProtParam - Results
+User-provided sequence:
+        10         20         30         40         50         60 
+MQIFVKTLTG KTITLEVESS DTIDNVKSKI QDKEGIPPDQ QRLIFAGKQL EDGRTLSDYN 
+
+        70         80         90        100        110        120 
+IQKESTLHLV LRLRGGGKKR KKKVYTTPKK IKHKHKKVKL AVLSYYKVDA EGKVTKLRRE 
+
+       130        140        150 
+CSNPTCGAGV FLANHKDRLY CGKCHSVYKV NA 
+
+
+Number of amino acids: 152
+Theoretical pI: 9.88
+Molecular weight: 17216.12
+
+Amino acid composition: 
+Ala (A)   6	  3.9%
+Arg (R)   8	  5.3%
+Asn (N)   5	  3.3%
+Asp (D)   8	  5.3%
+Cys (C)   4	  2.6%
+Gln (Q)   6	  3.9%
+Glu (E)   7	  4.6%
+Gly (G)  11	  7.2%
+His (H)   5	  3.3%
+Ile (I)   8	  5.3%
+Leu (L)  14	  9.2%
+Lys (K)  25	 16.4%
+Met (M)   1	  0.7%
+Phe (F)   3	  2.0%
+Pro (P)   4	  2.6%
+Ser (S)   8	  5.3%
+Thr (T)  11	  7.2%
+Trp (W)   0	  0.0%
+Tyr (Y)   6	  3.9%
+Val (V)  12	  7.9%
+Pyl (O)   0	  0.0%
+Sec (U)   0	  0.0%
+
+ (B)   0	  0.0%
+ (Z)   0	  0.0%
+ (X)   0	  0.0%
+
+Total number of negatively charged residues (Asp + Glu): 15
+Total number of positively charged residues (Arg + Lys): 33
+
+Atomic composition:
+Carbon      C	       763
+Hydrogen    H	      1268
+Nitrogen    N	       222
+Oxygen      O	       219
+Sulfur      S	         5
+
+Formula: C763H1268N222O219S5
+Total number of atoms: 2477
+
+Extinction coefficients:
+This protein does not contain any Trp residues. Experience shows that
+this could result in more than 10% error in the computed extinction coefficient.
+Extinction coefficients are in units of  M-1 cm-1, at 280 nm measured in water.
+Ext. coefficient     9190
+Abs 0.1% (=1 g/l)   0.534, assuming all pairs of Cys residues form cystines
+
+
+
+Ext. coefficient     8940
+Abs 0.1% (=1 g/l)   0.519, assuming all Cys residues are reduced
+
+Estimated half-life:
+The N-terminal of the sequence considered is M (Met).
+The estimated half-life is: 30 hours (mammalian reticulocytes, in vitro).
+                            >20 hours (yeast, in vivo).
+                            >10 hours (Escherichia coli, in vivo).
+
+Instability index:
+The instability index (II) is computed to be 27.42
+This classifies the protein as stable.
+
+Aliphatic index: 83.29
+Grand average of hydropathicity (GRAVY):-0.674
