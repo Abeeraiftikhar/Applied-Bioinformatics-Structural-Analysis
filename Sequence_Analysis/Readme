@@ -1,1 +1,34 @@
+This folder  contains an integrated bioinformatics workflow covering sequence similarity search, multiple sequence alignment, and phylogenetic analysis. The pipeline is used to study evolutionary relationships and support structural bioinformatics investigations.
 
+📁 Folder Structure
+BLAST_Analysis/
+Identification of homologous sequences using NCBI BLAST to find similar sequences in public databases.
+Multiple_Sequence_Alignment/
+Alignment of selected sequences to detect conserved regions, mutations, and functional motifs.
+Phylogenetic_Analysis/
+Construction of phylogenetic trees to analyze evolutionary relationships among related sequences.
+🔄 Workflow
+
+BLAST → Multiple Sequence Alignment → Phylogenetic Tree Construction
+
+-Retrieve homologous sequences using BLAST
+-Perform multiple sequence alignment on selected sequences
+-Build phylogenetic tree to study evolutionary relationships
+
+##🛠 Tools Used
+-NCBI BLAST
+-MEGA 11 / Clustal Omega / MUSCLE
+-Phylogenetic analysis tools (MEGA or similar software)
+-FASTA sequence format
+
+##🎯 Objective
+
+This workflow helps in:
+
+-Identifying sequence similarity across species
+-Detecting conserved and variable regions
+-Understanding evolutionary relationships
+-Supporting downstream structural and functional analysis
+##📌 Project Type
+
+Bioinformatics | Structural Analysis | Evolutionary Study
