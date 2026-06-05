@@ -1,1 +1,38 @@
 
+# 🧬 Multiple Sequence Alignment (MSA)
+
+This folder contains multiple sequence alignment analysis performed to identify conserved regions, mutations, and functional similarities among related biological sequences.
+
+## 🛠 Tools Used
+
+* **ClustalW** – for sequence alignment
+* **MEGA (Molecular Evolutionary Genetics Analysis)** – for alignment visualization and refinement
+
+
+## ⚙️ Workflow
+
+1. Selected homologous sequences (from BLAST results)
+2. Performed multiple sequence alignment using ClustalW
+3. Imported alignment into MEGA for visualization and editing
+4. Analyzed conserved and variable regions
+
+
+## 📊 Output
+
+* Aligned sequence files (`.aln` / `.meg`)
+* Visualization of conserved residues
+* Identification of mutations and functional motifs
+
+
+## 🎯 Purpose
+
+This analysis helps in:
+
+* Detecting conserved gene/protein regions
+* Understanding sequence variation
+* Supporting phylogenetic and structura
+
+## 📌 Note
+
+MSA results were further used for **phylogenetic tree construction and downstream structural studies**.
+
