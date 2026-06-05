@@ -1,1 +1,23 @@
+🧬 BLAST Analysis
 
+BLAST (Basic Local Alignment Search Tool) was used to identify homologous sequences by comparing query DNA/protein sequences against NCBI databases. This step helps in understanding sequence similarity, evolutionary relationships, and functional annotation.
+
+## 🛠 Tools Used
+NCBI BLAST (blastn / blastp)
+NCBI GenBank database
+FASTA sequence format
+
+##⚙️ Workflow
+Input sequence prepared in FASTA format
+Sequence submitted to NCBI BLAST
+Database search performed (nr/refseq)
+Top hits analyzed based on E-value, identity, and coverage
+
+##📊 Output Interpretation
+Lower E-value indicates higher significance
+Higher identity % shows stronger similarity
+High query coverage confirms reliable alignment
+
+##🧠 Purpose
+
+Results were used for identifying homologous genes/proteins and selecting candidate sequences for downstream structural modeling and molecular docking.
