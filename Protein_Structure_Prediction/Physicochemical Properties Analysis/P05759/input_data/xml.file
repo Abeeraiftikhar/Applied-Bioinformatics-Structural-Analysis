@@ -1,0 +1,680 @@
+ID   RS31_YEAST              Reviewed;         152 AA.
+AC   P05759; D6VYH3; P04838; P14800; P61864; Q6LA96;
+DT   01-NOV-1988, integrated into UniProtKB/Swiss-Prot.
+DT   10-AUG-2010, sequence version 3.
+DT   28-JAN-2026, entry version 221.
+DE   RecName: Full=Ubiquitin-ribosomal protein eS31 fusion protein {ECO:0000305};
+DE   Contains:
+DE     RecName: Full=Ubiquitin;
+DE   Contains:
+DE     RecName: Full=Small ribosomal subunit protein eS31 {ECO:0000303|PubMed:24524803};
+DE     AltName: Full=40S ribosomal protein S31 {ECO:0000303|PubMed:9559554};
+DE     AltName: Full=CEP76;
+DE     AltName: Full=S37;
+DE     AltName: Full=YS24;
+DE   Flags: Precursor;
+GN   Name=RPS31 {ECO:0000303|PubMed:24524803}; Synonyms=RPS37, UBI3;
+GN   OrderedLocusNames=YLR167W; ORFNames=L9470.14;
+OS   Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes;
+OC   Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=559292;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3038523; DOI=10.1002/j.1460-2075.1987.tb02384.x;
+RA   Oezkaynak E., Finley D., Solomon M.J., Varshavsky A.;
+RT   "The yeast ubiquitin genes: a family of natural gene fusions.";
+RL   EMBO J. 6:1429-1439(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=9169871; DOI=10.1038/387s087;
+RA   Johnston M., Hillier L.W., Riles L., Albermann K., Andre B., Ansorge W.,
+RA   Benes V., Brueckner M., Delius H., Dubois E., Duesterhoeft A.,
+RA   Entian K.-D., Floeth M., Goffeau A., Hebling U., Heumann K.,
+RA   Heuss-Neitzel D., Hilbert H., Hilger F., Kleine K., Koetter P., Louis E.J.,
+RA   Messenguy F., Mewes H.-W., Miosga T., Moestl D., Mueller-Auer S.,
+RA   Nentwich U., Obermaier B., Piravandi E., Pohl T.M., Portetelle D.,
+RA   Purnelle B., Rechmann S., Rieger M., Rinke M., Rose M., Scharfe M.,
+RA   Scherens B., Scholler P., Schwager C., Schwarz S., Underwood A.P.,
+RA   Urrestarazu L.A., Vandenbol M., Verhasselt P., Vierendeels F., Voet M.,
+RA   Volckaert G., Voss H., Wambutt R., Wedler E., Wedler H., Zimmermann F.K.,
+RA   Zollner A., Hani J., Hoheisel J.D.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XII.";
+RL   Nature 387:87-90(1997).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=ATCC 204508 / S288c;
+RX   PubMed=24374639; DOI=10.1534/g3.113.008995;
+RA   Engel S.R., Dietrich F.S., Fisk D.G., Binkley G., Balakrishnan R.,
+RA   Costanzo M.C., Dwight S.S., Hitz B.C., Karra K., Nash R.S., Weng S.,
+RA   Wong E.D., Lloyd P., Skrzypek M.S., Miyasato S.R., Simison M., Cherry J.M.;
+RT   "The reference genome sequence of Saccharomyces cerevisiae: Then and now.";
+RL   G3 (Bethesda) 4:389-398(2014).
+RN   [4]
+RP   PARTIAL PROTEIN SEQUENCE OF 77-95.
+RX   PubMed=18782943; DOI=10.1007/bf00341461;
+RA   Otaka E., Higo K., Itoh T.;
+RT   "Yeast ribosomal proteins. VIII. Isolation of two proteins and sequence
+RT   characterization of twenty-four proteins from cytoplasmic ribosomes.";
+RL   Mol. Gen. Genet. 195:544-546(1984).
+RN   [5]
+RP   IDENTIFICATION OF PROTEIN (S31).
+RX   PubMed=2538753; DOI=10.1038/338394a0;
+RA   Finley D., Bartel B., Varshavsky A.;
+RT   "The tails of ubiquitin precursors are ribosomal proteins whose fusion to
+RT   ubiquitin facilitates ribosome biogenesis.";
+RL   Nature 338:394-401(1989).
+RN   [6]
+RP   MUTAGENESIS OF LYS-29; LYS-48 AND LYS-63.
+RX   PubMed=7615550; DOI=10.1074/jbc.270.29.17442;
+RA   Johnson E.S., Ma P.C.M., Ota I.M., Varshavsky A.;
+RT   "A proteolytic pathway that recognizes ubiquitin as a degradation signal.";
+RL   J. Biol. Chem. 270:17442-17456(1995).
+RN   [7]
+RP   MUTAGENESIS OF LYSINE RESIDUES IN UBIQUITIN.
+RX   PubMed=7862120; DOI=10.1128/mcb.15.3.1265;
+RA   Spence J., Sadis S., Haas A.L., Finley D.;
+RT   "A ubiquitin mutant with specific defects in DNA repair and
+RT   multiubiquitination.";
+RL   Mol. Cell. Biol. 15:1265-1273(1995).
+RN   [8]
+RP   NOMENCLATURE, AND SUBUNIT (S31).
+RX   PubMed=9559554;
+RX   DOI=10.1002/(sici)1097-0061(19980330)14:5<471::aid-yea241>3.0.co;2-u;
+RA   Planta R.J., Mager W.H.;
+RT   "The list of cytoplasmic ribosomal proteins of Saccharomyces cerevisiae.";
+RL   Yeast 14:471-477(1998).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-122, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=17287358; DOI=10.1073/pnas.0607084104;
+RA   Chi A., Huttenhower C., Geer L.Y., Coon J.J., Syka J.E.P., Bai D.L.,
+RA   Shabanowitz J., Burke D.J., Troyanskaya O.G., Hunt D.F.;
+RT   "Analysis of phosphorylation sites on proteins from Saccharomyces
+RT   cerevisiae by electron transfer dissociation (ETD) mass spectrometry.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:2193-2198(2007).
+RN   [10]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=18407956; DOI=10.1074/mcp.m700468-mcp200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth phosphoproteome
+RT   analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+RN   [11]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-122, AND IDENTIFICATION BY
+RP   MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=19779198; DOI=10.1126/science.1172867;
+RA   Holt L.J., Tuch B.B., Villen J., Johnson A.D., Gygi S.P., Morgan D.O.;
+RT   "Global analysis of Cdk1 substrate phosphorylation sites provides insights
+RT   into evolution.";
+RL   Science 325:1682-1686(2009).
+RN   [12]
+RP   NOMENCLATURE.
+RX   PubMed=24524803; DOI=10.1016/j.sbi.2014.01.002;
+RA   Ban N., Beckmann R., Cate J.H.D., Dinman J.D., Dragon F., Ellis S.R.,
+RA   Lafontaine D.L.J., Lindahl L., Liljas A., Lipton J.M., McAlear M.A.,
+RA   Moore P.B., Noller H.F., Ortega J., Panse V.G., Ramakrishnan V.,
+RA   Spahn C.M.T., Steitz T.A., Tchorzewski M., Tollervey D., Warren A.J.,
+RA   Williamson J.R., Wilson D., Yonath A., Yusupov M.;
+RT   "A new system for naming ribosomal proteins.";
+RL   Curr. Opin. Struct. Biol. 24:165-169(2014).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (3.00 ANGSTROMS) OF 80S RIBOSOME, SUBUNIT, AND
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=22096102; DOI=10.1126/science.1212642;
+RA   Ben-Shem A., Garreau de Loubresse N., Melnikov S., Jenner L., Yusupova G.,
+RA   Yusupov M.;
+RT   "The structure of the eukaryotic ribosome at 3.0 A resolution.";
+RL   Science 334:1524-1529(2011).
+CC   -!- FUNCTION: [Ubiquitin]: Exists either covalently attached to another
+CC       protein, or free (unanchored). When covalently bound, it is conjugated
+CC       to target proteins via an isopeptide bond either as a monomer
+CC       (monoubiquitin), a polymer linked via different Lys residues of the
+CC       ubiquitin (polyubiquitin chains) or a linear polymer linked via the
+CC       initiator Met of the ubiquitin (linear polyubiquitin chains).
+CC       Polyubiquitin chains, when attached to a target protein, have different
+CC       functions depending on the Lys residue of the ubiquitin that is linked:
+CC       Lys-6-linked may be involved in DNA repair; Lys-11-linked is involved
+CC       in ERAD (endoplasmic reticulum-associated degradation) and in cell-
+CC       cycle regulation; Lys-29-linked is involved in lysosomal degradation;
+CC       Lys-33-linked is involved in kinase modification; Lys-48-linked is
+CC       involved in protein degradation via the proteasome; Lys-63-linked is
+CC       involved in endocytosis, and DNA-damage responses. Linear polymer
+CC       chains formed via attachment by the initiator Met lead to cell
+CC       signaling. Ubiquitin is usually conjugated to Lys residues of target
+CC       proteins, however, in rare cases, conjugation to Cys or Ser residues
+CC       has been observed. When polyubiquitin is free (unanchored-
+CC       polyubiquitin), it also has distinct roles, such as in activation of
+CC       protein kinases, and in signaling (By similarity). {ECO:0000250}.
+CC   -!- FUNCTION: [Small ribosomal subunit protein eS31]: Component of the
+CC       ribosome, a large ribonucleoprotein complex responsible for the
+CC       synthesis of proteins in the cell. The small ribosomal subunit (SSU)
+CC       binds messenger RNAs (mRNAs) and translates the encoded message by
+CC       selecting cognate aminoacyl-transfer RNA (tRNA) molecules. The large
+CC       subunit (LSU) contains the ribosomal catalytic site termed the peptidyl
+CC       transferase center (PTC), which catalyzes the formation of peptide
+CC       bonds, thereby polymerizing the amino acids delivered by tRNAs into a
+CC       polypeptide chain. The nascent polypeptides leave the ribosome through
+CC       a tunnel in the LSU and interact with protein factors that function in
+CC       enzymatic processing, targeting, and the membrane insertion of nascent
+CC       chains at the exit of the ribosomal tunnel.
+CC       {ECO:0000305|PubMed:22096102}.
+CC   -!- SUBUNIT: [Small ribosomal subunit protein eS31]: Component of the small
+CC       ribosomal subunit (SSU). Mature yeast ribosomes consist of a small
+CC       (40S) and a large (60S) subunit. The 40S small subunit contains 1
+CC       molecule of ribosomal RNA (18S rRNA) and 33 different proteins (encoded
+CC       by 57 genes). The large 60S subunit contains 3 rRNA molecules (25S,
+CC       5.8S and 5S rRNA) and 46 different proteins (encoded by 81 genes)
+CC       (PubMed:22096102, PubMed:9559554). {ECO:0000269|PubMed:22096102,
+CC       ECO:0000305|PubMed:9559554}.
+CC   -!- INTERACTION:
+CC       P05759; P36100: TFA1; NbExp=2; IntAct=EBI-16127, EBI-18903;
+CC       P05759; Q13137: CALCOCO2; Xeno; NbExp=3; IntAct=EBI-16127, EBI-739580;
+CC   -!- SUBCELLULAR LOCATION: [Ubiquitin]: Cytoplasm {ECO:0000250}. Nucleus
+CC       {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: [Small ribosomal subunit protein eS31]: Cytoplasm
+CC       {ECO:0000269|PubMed:22096102}.
+CC   -!- MISCELLANEOUS: Ubiquitin is encoded by several different genes. UBI1
+CC       and UBI2 genes code for a single copy of ubiquitin fused to the
+CC       ribosomal proteins eL40A and eL40B, respectively. UBI3 is a polyprotein
+CC       with one copy of ubiquitin fused to ribosomal protein eS31. UBI4 is a
+CC       polyprotein containing 5 exact head to tail repeats of ubiquitin.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: In the N-terminal section; belongs to the ubiquitin family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: In the C-terminal section; belongs to the eukaryotic
+CC       ribosomal protein eS31 family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X05730; CAA29197.1; -; Genomic_DNA.
+DR   EMBL; U17246; AAB67466.1; -; Genomic_DNA.
+DR   EMBL; BK006945; DAA09489.1; -; Genomic_DNA.
+DR   PIR; C29456; UQBYR7.
+DR   RefSeq; NP_013268.1; NM_001182054.1.
+DR   PDB; 3J6X; EM; 6.10 A; 31=1-152.
+DR   PDB; 3J6Y; EM; 6.10 A; 31=1-152.
+DR   PDB; 3J77; EM; 6.20 A; 31=1-152.
+DR   PDB; 3J78; EM; 6.30 A; 31=1-152.
+DR   PDB; 4U3M; X-ray; 3.00 A; E1=77-152, e1=78-152.
+DR   PDB; 4U3N; X-ray; 3.20 A; E1=77-152, e1=78-152.
+DR   PDB; 4U3U; X-ray; 2.90 A; E1=77-152, e1=78-152.
+DR   PDB; 4U4N; X-ray; 3.10 A; E1/e1=77-152.
+DR   PDB; 4U4O; X-ray; 3.60 A; E1=78-152, e1=77-152.
+DR   PDB; 4U4Q; X-ray; 3.00 A; E1/e1=77-152.
+DR   PDB; 4U4R; X-ray; 2.80 A; E1/e1=77-152.
+DR   PDB; 4U4U; X-ray; 3.00 A; E1/e1=77-152.
+DR   PDB; 4U4Y; X-ray; 3.20 A; E1/e1=77-152.
+DR   PDB; 4U4Z; X-ray; 3.10 A; E1/e1=77-152.
+DR   PDB; 4U50; X-ray; 3.20 A; E1/e1=78-152.
+DR   PDB; 4U51; X-ray; 3.20 A; E1/e1=77-152.
+DR   PDB; 4U52; X-ray; 3.00 A; E1/e1=77-152.
+DR   PDB; 4U53; X-ray; 3.30 A; E1/e1=77-152.
+DR   PDB; 4U55; X-ray; 3.20 A; E1/e1=77-152.
+DR   PDB; 4U56; X-ray; 3.45 A; E1/e1=77-152.
+DR   PDB; 4U6F; X-ray; 3.10 A; E1/e1=77-152.
+DR   PDB; 4V88; X-ray; 3.00 A; Af/Cf=1-152.
+DR   PDB; 4V8Y; EM; 4.30 A; A5=1-152.
+DR   PDB; 4V8Z; EM; 6.60 A; A5=1-152.
+DR   PDB; 4V92; EM; 3.70 A; f=101-152.
+DR   PDB; 5DAT; X-ray; 3.15 A; E1/e1=77-152.
+DR   PDB; 5DC3; X-ray; 3.25 A; E1/e1=78-152.
+DR   PDB; 5DGE; X-ray; 3.45 A; E1/e1=77-152.
+DR   PDB; 5DGF; X-ray; 3.30 A; E1/e1=77-152.
+DR   PDB; 5DGV; X-ray; 3.10 A; E1/e1=77-152.
+DR   PDB; 5FCI; X-ray; 3.40 A; E1/e1=77-152.
+DR   PDB; 5FCJ; X-ray; 3.10 A; E1/e1=77-152.
+DR   PDB; 5I4L; X-ray; 3.10 A; E1/e1=77-152.
+DR   PDB; 5JUO; EM; 4.00 A; CC=1-152.
+DR   PDB; 5JUP; EM; 3.50 A; CC=1-152.
+DR   PDB; 5JUS; EM; 4.20 A; CC=1-152.
+DR   PDB; 5JUT; EM; 4.00 A; CC=1-152.
+DR   PDB; 5JUU; EM; 4.00 A; CC=1-152.
+DR   PDB; 5L6H; X-ray; 2.30 A; B/D/E=1-76.
+DR   PDB; 5L6I; X-ray; 2.76 A; B/D/E=1-76.
+DR   PDB; 5L6J; X-ray; 2.68 A; B/D=1-76.
+DR   PDB; 5LYB; X-ray; 3.25 A; E1/e1=77-152.
+DR   PDB; 5M1J; EM; 3.30 A; f2=82-152.
+DR   PDB; 5MC6; EM; 3.80 A; N=1-152.
+DR   PDB; 5MEI; X-ray; 3.50 A; e1=102-152, g=82-152.
+DR   PDB; 5NDG; X-ray; 3.70 A; E1/e1=1-152.
+DR   PDB; 5NDW; X-ray; 3.70 A; E1/e1=80-152.
+DR   PDB; 5OBM; X-ray; 3.40 A; E1/e1=81-152.
+DR   PDB; 5ON6; X-ray; 3.10 A; e1=102-152, g=82-152.
+DR   PDB; 5TBW; X-ray; 3.00 A; e1=102-152, g=82-152.
+DR   PDB; 5TGA; X-ray; 3.30 A; E1/e1=77-152.
+DR   PDB; 5TGM; X-ray; 3.50 A; E1/e1=77-152.
+DR   PDB; 5U4P; X-ray; 2.50 A; C=1-76.
+DR   PDB; 5WYJ; EM; 8.70 A; Sg=1-152.
+DR   PDB; 6EML; EM; 3.60 A; N=1-152.
+DR   PDB; 6GQ1; EM; 4.40 A; AW=116-152.
+DR   PDB; 6GQB; EM; 3.90 A; AW=116-152.
+DR   PDB; 6GQV; EM; 4.00 A; AW=116-152.
+DR   PDB; 6HHQ; X-ray; 3.10 A; e1/g=1-152.
+DR   PDB; 6I7O; EM; 5.30 A; N/Nb=80-152.
+DR   PDB; 6Q8Y; EM; 3.10 A; N=102-152.
+DR   PDB; 6RBE; EM; 3.80 A; f=1-152.
+DR   PDB; 6S47; EM; 3.28 A; Bg=2-152.
+DR   PDB; 6SNT; EM; 2.80 A; f=1-152.
+DR   PDB; 6SV4; EM; 3.30 A; N/Nb/Nc=1-152.
+DR   PDB; 6T4Q; EM; 2.60 A; Sf=80-152.
+DR   PDB; 6T7I; EM; 3.20 A; Sf=1-152.
+DR   PDB; 6T7T; EM; 3.10 A; Sf=1-152.
+DR   PDB; 6T83; EM; 4.00 A; 6/fb=1-152.
+DR   PDB; 6TB3; EM; 2.80 A; N=80-152.
+DR   PDB; 6TNU; EM; 3.10 A; N=80-152.
+DR   PDB; 6WDR; EM; 3.70 A; f=82-152.
+DR   PDB; 6WOO; EM; 2.90 A; ff=94-150.
+DR   PDB; 6Z6J; EM; 3.40 A; Sf=1-152.
+DR   PDB; 6Z6K; EM; 3.40 A; Sf=1-152.
+DR   PDB; 6ZCE; EM; 5.30 A; g=1-152.
+DR   PDB; 6ZQH; X-ray; 2.03 A; B/D=1-76.
+DR   PDB; 6ZU9; EM; 6.20 A; O=1-152.
+DR   PDB; 6ZVI; EM; 3.00 A; Q=80-152.
+DR   PDB; 7A1G; EM; 3.00 A; N=80-152.
+DR   PDB; 7B7D; EM; 3.30 A; N=80-152.
+DR   PDB; 7MPI; EM; 3.05 A; Bf=93-152.
+DR   PDB; 7MPJ; EM; 2.70 A; Bf=93-152.
+DR   PDB; 7N8B; EM; 3.05 A; Bf=93-152.
+DR   PDB; 7NRC; EM; 3.90 A; SN=80-152.
+DR   PDB; 7NRD; EM; 4.36 A; SN=80-152.
+DR   PDB; 7ZPQ; EM; 3.47 A; Af=80-152.
+DR   PDB; 7ZRS; EM; 4.80 A; Af=80-152.
+DR   PDB; 7ZUW; EM; 4.30 A; Af=80-152.
+DR   PDB; 7ZUX; EM; 2.50 A; Df=80-152.
+DR   PDB; 7ZW0; EM; 2.40 A; sN=77-152.
+DR   PDB; 8BN3; EM; 2.40 A; E1=82-152.
+DR   PDB; 8BQD; EM; 3.90 A; N=80-152.
+DR   PDB; 8BQX; EM; 3.80 A; N=80-152.
+DR   PDB; 8C83; EM; 3.00 A; y=1-76.
+DR   PDB; 8CAH; EM; 3.00 A; N=77-152.
+DR   PDB; 8CAS; EM; 3.30 A; O=77-152.
+DR   PDB; 8CCS; EM; 1.97 A; 8=1-152.
+DR   PDB; 8CDL; EM; 2.72 A; 8=1-152.
+DR   PDB; 8CDR; EM; 2.04 A; 8=1-152.
+DR   PDB; 8K2D; EM; 3.20 A; Sf=1-152.
+DR   PDB; 8K82; EM; 3.00 A; Sf=1-152.
+DR   PDB; 8P4V; X-ray; 3.16 A; e1/g=1-152.
+DR   PDB; 8P85; X-ray; 2.90 A; e1/g=1-152.
+DR   PDB; 8P9A; X-ray; 2.90 A; e1/g=1-152.
+DR   PDB; 8PNN; X-ray; 2.90 A; g=1-152.
+DR   PDB; 8T2X; EM; 2.46 A; Bf=1-152.
+DR   PDB; 8T2Y; EM; 2.20 A; Bf=1-152.
+DR   PDB; 8T2Z; EM; 2.40 A; Bf=1-152.
+DR   PDB; 8T30; EM; 2.88 A; Bf=1-152.
+DR   PDB; 8T3A; EM; 2.86 A; Bf=1-152.
+DR   PDB; 8T3B; EM; 3.08 A; Bf=1-152.
+DR   PDB; 8T3C; EM; 3.86 A; Bf=1-152.
+DR   PDB; 8T3D; EM; 2.95 A; Bf=1-152.
+DR   PDB; 8T3E; EM; 3.04 A; Bf=1-152.
+DR   PDB; 8T3F; EM; 3.09 A; Bf=1-152.
+DR   PDB; 8UT0; EM; 3.22 A; SN=80-152.
+DR   PDB; 8UTI; EM; 3.13 A; SN=80-152.
+DR   PDB; 8XU8; EM; 3.40 A; SN=80-152.
+DR   PDB; 8Y0U; EM; 3.59 A; Sf=1-152.
+DR   PDB; 8YLD; EM; 3.90 A; SN=80-152.
+DR   PDB; 8YLR; EM; 3.90 A; SN=80-152.
+DR   PDB; 8Z70; EM; 3.20 A; SN=80-152.
+DR   PDB; 8Z71; EM; 3.60 A; SN=80-152.
+DR   PDB; 8ZGR; EM; 2.70 A; SN=80-152.
+DR   PDB; 8ZGY; EM; 2.80 A; SN=80-152.
+DR   PDB; 8ZH3; EM; 2.70 A; SN=80-152.
+DR   PDB; 8ZHB; EM; 2.60 A; SN=80-152.
+DR   PDB; 8ZHC; EM; 2.30 A; SN=80-152.
+DR   PDB; 9EYH; X-ray; 2.60 A; C/D000=1-76.
+DR   PDB; 9F9S; EM; 2.90 A; RF/SF=1-152.
+DR   PDBsum; 3J6X; -.
+DR   PDBsum; 3J6Y; -.
+DR   PDBsum; 3J77; -.
+DR   PDBsum; 3J78; -.
+DR   PDBsum; 4U3M; -.
+DR   PDBsum; 4U3N; -.
+DR   PDBsum; 4U3U; -.
+DR   PDBsum; 4U4N; -.
+DR   PDBsum; 4U4O; -.
+DR   PDBsum; 4U4Q; -.
+DR   PDBsum; 4U4R; -.
+DR   PDBsum; 4U4U; -.
+DR   PDBsum; 4U4Y; -.
+DR   PDBsum; 4U4Z; -.
+DR   PDBsum; 4U50; -.
+DR   PDBsum; 4U51; -.
+DR   PDBsum; 4U52; -.
+DR   PDBsum; 4U53; -.
+DR   PDBsum; 4U55; -.
+DR   PDBsum; 4U56; -.
+DR   PDBsum; 4U6F; -.
+DR   PDBsum; 4V88; -.
+DR   PDBsum; 4V8Y; -.
+DR   PDBsum; 4V8Z; -.
+DR   PDBsum; 4V92; -.
+DR   PDBsum; 5DAT; -.
+DR   PDBsum; 5DC3; -.
+DR   PDBsum; 5DGE; -.
+DR   PDBsum; 5DGF; -.
+DR   PDBsum; 5DGV; -.
+DR   PDBsum; 5FCI; -.
+DR   PDBsum; 5FCJ; -.
+DR   PDBsum; 5I4L; -.
+DR   PDBsum; 5JUO; -.
+DR   PDBsum; 5JUP; -.
+DR   PDBsum; 5JUS; -.
+DR   PDBsum; 5JUT; -.
+DR   PDBsum; 5JUU; -.
+DR   PDBsum; 5L6H; -.
+DR   PDBsum; 5L6I; -.
+DR   PDBsum; 5L6J; -.
+DR   PDBsum; 5LYB; -.
+DR   PDBsum; 5M1J; -.
+DR   PDBsum; 5MC6; -.
+DR   PDBsum; 5MEI; -.
+DR   PDBsum; 5NDG; -.
+DR   PDBsum; 5NDW; -.
+DR   PDBsum; 5OBM; -.
+DR   PDBsum; 5ON6; -.
+DR   PDBsum; 5TBW; -.
+DR   PDBsum; 5TGA; -.
+DR   PDBsum; 5TGM; -.
+DR   PDBsum; 5U4P; -.
+DR   PDBsum; 5WYJ; -.
+DR   PDBsum; 6EML; -.
+DR   PDBsum; 6GQ1; -.
+DR   PDBsum; 6GQB; -.
+DR   PDBsum; 6GQV; -.
+DR   PDBsum; 6HHQ; -.
+DR   PDBsum; 6I7O; -.
+DR   PDBsum; 6Q8Y; -.
+DR   PDBsum; 6RBE; -.
+DR   PDBsum; 6S47; -.
+DR   PDBsum; 6SNT; -.
+DR   PDBsum; 6SV4; -.
+DR   PDBsum; 6T4Q; -.
+DR   PDBsum; 6T7I; -.
+DR   PDBsum; 6T7T; -.
+DR   PDBsum; 6T83; -.
+DR   PDBsum; 6TB3; -.
+DR   PDBsum; 6TNU; -.
+DR   PDBsum; 6WDR; -.
+DR   PDBsum; 6WOO; -.
+DR   PDBsum; 6Z6J; -.
+DR   PDBsum; 6Z6K; -.
+DR   PDBsum; 6ZCE; -.
+DR   PDBsum; 6ZQH; -.
+DR   PDBsum; 6ZU9; -.
+DR   PDBsum; 6ZVI; -.
+DR   PDBsum; 7A1G; -.
+DR   PDBsum; 7B7D; -.
+DR   PDBsum; 7MPI; -.
+DR   PDBsum; 7MPJ; -.
+DR   PDBsum; 7N8B; -.
+DR   PDBsum; 7NRC; -.
+DR   PDBsum; 7NRD; -.
+DR   PDBsum; 7ZPQ; -.
+DR   PDBsum; 7ZRS; -.
+DR   PDBsum; 7ZUW; -.
+DR   PDBsum; 7ZUX; -.
+DR   PDBsum; 7ZW0; -.
+DR   PDBsum; 8BN3; -.
+DR   PDBsum; 8BQD; -.
+DR   PDBsum; 8BQX; -.
+DR   PDBsum; 8C83; -.
+DR   PDBsum; 8CAH; -.
+DR   PDBsum; 8CAS; -.
+DR   PDBsum; 8CCS; -.
+DR   PDBsum; 8CDL; -.
+DR   PDBsum; 8CDR; -.
+DR   PDBsum; 8K2D; -.
+DR   PDBsum; 8K82; -.
+DR   PDBsum; 8P4V; -.
+DR   PDBsum; 8P85; -.
+DR   PDBsum; 8P9A; -.
+DR   PDBsum; 8PNN; -.
+DR   PDBsum; 8T2X; -.
+DR   PDBsum; 8T2Y; -.
+DR   PDBsum; 8T2Z; -.
+DR   PDBsum; 8T30; -.
+DR   PDBsum; 8T3A; -.
+DR   PDBsum; 8T3B; -.
+DR   PDBsum; 8T3C; -.
+DR   PDBsum; 8T3D; -.
+DR   PDBsum; 8T3E; -.
+DR   PDBsum; 8T3F; -.
+DR   PDBsum; 8UT0; -.
+DR   PDBsum; 8UTI; -.
+DR   PDBsum; 8XU8; -.
+DR   PDBsum; 8Y0U; -.
+DR   PDBsum; 8YLD; -.
+DR   PDBsum; 8YLR; -.
+DR   PDBsum; 8Z70; -.
+DR   PDBsum; 8Z71; -.
+DR   PDBsum; 8ZGR; -.
+DR   PDBsum; 8ZGY; -.
+DR   PDBsum; 8ZH3; -.
+DR   PDBsum; 8ZHB; -.
+DR   PDBsum; 8ZHC; -.
+DR   PDBsum; 9EYH; -.
+DR   PDBsum; 9F9S; -.
+DR   AlphaFoldDB; P05759; -.
+DR   BMRB; P05759; -.
+DR   EMDB; EMD-0047; -.
+DR   EMDB; EMD-0048; -.
+DR   EMDB; EMD-0049; -.
+DR   EMDB; EMD-10098; -.
+DR   EMDB; EMD-10262; -.
+DR   EMDB; EMD-10315; -.
+DR   EMDB; EMD-10377; -.
+DR   EMDB; EMD-10396; -.
+DR   EMDB; EMD-10397; -.
+DR   EMDB; EMD-10398; -.
+DR   EMDB; EMD-10431; -.
+DR   EMDB; EMD-10537; -.
+DR   EMDB; EMD-11096; -.
+DR   EMDB; EMD-11097; -.
+DR   EMDB; EMD-11160; -.
+DR   EMDB; EMD-11439; -.
+DR   EMDB; EMD-11608; -.
+DR   EMDB; EMD-12081; -.
+DR   EMDB; EMD-12534; -.
+DR   EMDB; EMD-12535; -.
+DR   EMDB; EMD-14979; -.
+DR   EMDB; EMD-14990; -.
+DR   EMDB; EMD-16182; -.
+DR   EMDB; EMD-16191; -.
+DR   EMDB; EMD-16470; -.
+DR   EMDB; EMD-16525; -.
+DR   EMDB; EMD-16533; -.
+DR   EMDB; EMD-21644; -.
+DR   EMDB; EMD-21859; -.
+DR   EMDB; EMD-23934; -.
+DR   EMDB; EMD-23935; -.
+DR   EMDB; EMD-24235; -.
+DR   EMDB; EMD-3461; -.
+DR   EMDB; EMD-36839; -.
+DR   EMDB; EMD-36945; -.
+DR   EMDB; EMD-38660; -.
+DR   EMDB; EMD-4140; -.
+DR   EMDB; EMD-4427; -.
+DR   EMDB; EMD-4474; -.
+DR   EMDB; EMD-4793; -.
+DR   EMDB; EMD-50259; -.
+DR   EMDB; EMD-60088; -.
+DR   EMDB; EMD-60091; -.
+DR   EMDB; EMD-60094; -.
+DR   EMDB; EMD-60097; -.
+DR   EMDB; EMD-60098; -.
+DR   EMDB; EMD-6695; -.
+DR   SMR; P05759; -.
+DR   BioGRID; 31440; 344.
+DR   ComplexPortal; CPX-1599; 40S cytosolic small ribosomal subunit.
+DR   DIP; DIP-6389N; -.
+DR   FunCoup; P05759; 1461.
+DR   IntAct; P05759; 25.
+DR   MINT; P05759; -.
+DR   STRING; 4932.YLR167W; -.
+DR   iPTMnet; P05759; -.
+DR   PaxDb; 4932-YLR167W; -.
+DR   PeptideAtlas; P05759; -.
+DR   EnsemblFungi; YLR167W_mRNA; YLR167W; YLR167W.
+DR   GeneID; 850864; -.
+DR   KEGG; sce:YLR167W; -.
+DR   AGR; SGD:S000004157; -.
+DR   SGD; S000004157; RPS31.
+DR   VEuPathDB; FungiDB:YLR167W; -.
+DR   eggNOG; KOG0004; Eukaryota.
+DR   HOGENOM; CLU_010412_2_0_1; -.
+DR   InParanoid; P05759; -.
+DR   OMA; GVFMAFH; -.
+DR   OrthoDB; 428577at2759; -.
+DR   BioCyc; YEAST:G3O-32297-MONOMER; -.
+DR   Reactome; R-SCE-156827; L13a-mediated translational silencing of Ceruloplasmin expression.
+DR   Reactome; R-SCE-1799339; SRP-dependent cotranslational protein targeting to membrane.
+DR   Reactome; R-SCE-72649; Translation initiation complex formation.
+DR   Reactome; R-SCE-72689; Formation of a pool of free 40S subunits.
+DR   Reactome; R-SCE-72695; Formation of the ternary complex, and subsequently, the 43S complex.
+DR   Reactome; R-SCE-72702; Ribosomal scanning and start codon recognition.
+DR   Reactome; R-SCE-72706; GTP hydrolysis and joining of the 60S ribosomal subunit.
+DR   Reactome; R-SCE-975956; Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC).
+DR   Reactome; R-SCE-975957; Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC).
+DR   BioGRID-ORCS; 850864; 2 hits in 10 CRISPR screens.
+DR   PRO; PR:P05759; -.
+DR   Proteomes; UP000002311; Chromosome XII.
+DR   RNAct; P05759; protein.
+DR   GO; GO:0005737; C:cytoplasm; IDA:ComplexPortal.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0022627; C:cytosolic small ribosomal subunit; IDA:SGD.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0031386; F:protein tag activity; IMP:SGD.
+DR   GO; GO:0003735; F:structural constituent of ribosome; IC:SGD.
+DR   GO; GO:0031625; F:ubiquitin protein ligase binding; IBA:GO_Central.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0002181; P:cytoplasmic translation; NAS:ComplexPortal.
+DR   GO; GO:1990145; P:maintenance of translational fidelity; IMP:SGD.
+DR   GO; GO:0002109; P:maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, LSU-rRNA,5S); IMP:SGD.
+DR   GO; GO:0019941; P:modification-dependent protein catabolic process; IBA:GO_Central.
+DR   GO; GO:0016567; P:protein ubiquitination; IBA:GO_Central.
+DR   GO; GO:0000028; P:ribosomal small subunit assembly; IMP:SGD.
+DR   GO; GO:0042254; P:ribosome biogenesis; IMP:SGD.
+DR   CDD; cd01803; Ubl_ubiquitin; 1.
+DR   FunFam; 3.10.20.90:FF:000008; Ubiquitin-40S ribosomal protein S27a; 1.
+DR   Gene3D; 6.20.50.150; -; 1.
+DR   Gene3D; 3.10.20.90; Phosphatidylinositol 3-kinase Catalytic Subunit, Chain A, domain 1; 1.
+DR   InterPro; IPR002906; Ribosomal_eS31.
+DR   InterPro; IPR038582; Ribosomal_eS31_euk-type_sf.
+DR   InterPro; IPR011332; Ribosomal_zn-bd.
+DR   InterPro; IPR000626; Ubiquitin-like_dom.
+DR   InterPro; IPR029071; Ubiquitin-like_domsf.
+DR   InterPro; IPR019954; Ubiquitin_CS.
+DR   InterPro; IPR019956; Ubiquitin_dom.
+DR   InterPro; IPR050158; Ubiquitin_ubiquitin-like.
+DR   PANTHER; PTHR10666; UBIQUITIN; 1.
+DR   Pfam; PF01599; Ribosomal_S27; 1.
+DR   Pfam; PF00240; ubiquitin; 1.
+DR   PRINTS; PR00348; UBIQUITIN.
+DR   SMART; SM01402; Ribosomal_S27; 1.
+DR   SMART; SM00213; UBQ; 1.
+DR   SUPFAM; SSF54236; Ubiquitin-like; 1.
+DR   SUPFAM; SSF57829; Zn-binding ribosomal proteins; 1.
+DR   PROSITE; PS00299; UBIQUITIN_1; 1.
+DR   PROSITE; PS50053; UBIQUITIN_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cytoplasm; Direct protein sequencing; Isopeptide bond;
+KW   Metal-binding; Nucleus; Phosphoprotein; Reference proteome;
+KW   Ribonucleoprotein; Ribosomal protein; Ubl conjugation; Zinc; Zinc-finger.
+FT   CHAIN           1..76
+FT                   /note="Ubiquitin"
+FT                   /id="PRO_0000396487"
+FT   CHAIN           77..152
+FT                   /note="Small ribosomal subunit protein eS31"
+FT                   /id="PRO_0000137688"
+FT   DOMAIN          1..76
+FT                   /note="Ubiquitin-like"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00214"
+FT   ZN_FING         121..144
+FT                   /note="C4-type"
+FT   MOD_RES         122
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0007744|PubMed:17287358,
+FT                   ECO:0007744|PubMed:19779198"
+FT   CROSSLNK        6
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:P62979"
+FT   CROSSLNK        11
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:P62979"
+FT   CROSSLNK        27
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:P62979"
+FT   CROSSLNK        29
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:P62979"
+FT   CROSSLNK        33
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:P62979"
+FT   CROSSLNK        48
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:P62979"
+FT   CROSSLNK        63
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:P62979"
+FT   CROSSLNK        76
+FT                   /note="Glycyl lysine isopeptide (Gly-Lys) (interchain with
+FT                   K-? in acceptor proteins)"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00214"
+FT   CROSSLNK        107
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:P62979"
+FT   CROSSLNK        113
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000250|UniProtKB:P62979"
+FT   MUTAGEN         29
+FT                   /note="K->R: Deficiency in ubiquitin-protein conjugate
+FT                   formation."
+FT                   /evidence="ECO:0000269|PubMed:7615550"
+FT   MUTAGEN         48
+FT                   /note="K->R: Deficiency in ubiquitin-protein conjugate
+FT                   formation."
+FT                   /evidence="ECO:0000269|PubMed:7615550"
+FT   MUTAGEN         63
+FT                   /note="K->R: Deficiency in ubiquitin-protein conjugate
+FT                   formation. Loss of DNA repair function."
+FT                   /evidence="ECO:0000269|PubMed:7615550"
+FT   STRAND          2..7
+FT                   /evidence="ECO:0007829|PDB:6ZQH"
+FT   STRAND          8..10
+FT                   /evidence="ECO:0007829|PDB:8C83"
+FT   STRAND          12..16
+FT                   /evidence="ECO:0007829|PDB:6ZQH"
+FT   HELIX           23..34
+FT                   /evidence="ECO:0007829|PDB:6ZQH"
+FT   HELIX           38..40
+FT                   /evidence="ECO:0007829|PDB:6ZQH"
+FT   STRAND          42..45
+FT                   /evidence="ECO:0007829|PDB:6ZQH"
+FT   STRAND          47..49
+FT                   /evidence="ECO:0007829|PDB:5L6H"
+FT   HELIX           57..59
+FT                   /evidence="ECO:0007829|PDB:6ZQH"
+FT   STRAND          66..70
+FT                   /evidence="ECO:0007829|PDB:6ZQH"
+FT   STRAND          110..112
+FT                   /evidence="ECO:0007829|PDB:6ZVI"
+FT   STRAND          135..137
+FT                   /evidence="ECO:0007829|PDB:6ZVI"
+FT   STRAND          142..146
+FT                   /evidence="ECO:0007829|PDB:6ZVI"
+SQ   SEQUENCE   152 AA;  17216 MW;  53BF38E2E2F8B38E CRC64;
+     MQIFVKTLTG KTITLEVESS DTIDNVKSKI QDKEGIPPDQ QRLIFAGKQL EDGRTLSDYN
+     IQKESTLHLV LRLRGGGKKR KKKVYTTPKK IKHKHKKVKL AVLSYYKVDA EGKVTKLRRE
+     CSNPTCGAGV FLANHKDRLY CGKCHSVYKV NA
+//
