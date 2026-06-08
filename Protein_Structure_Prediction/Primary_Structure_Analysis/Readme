@@ -1,1 +1,8 @@
+This folder contains the sequence-level characterization and architectural analysis of the raw polypeptide chain. It moves beyond basic composition statistics to identify linear functional motifs, evolutionary conservation patterns, and hydrophobic distribution profiles embedded within the amino acid sequence, which directly dictate how the protein will fold into higher-order secondary and tertiary structures.
 
+### 🧬 Key Elements Analyzed
+
+* **Amino Acid Composition & Frequency:** Quantifies the exact abundance and percentage of individual amino acids. Detecting over-represented residue groups (such as a high frequency of Cysteine residues) provides immediate insights into potential disulfide-bond networks necessary for structural stability.
+* **Hydropathy Profile Mapping:** Uses the **Kyte-Doolittle scale** across a sliding window average to evaluate the hydrophobic vs. hydrophilic landscape along the sequence. Sharp, positive spikes that breach high thresholds strongly indicate potential transmembrane regions or segments destined to be buried deep within the protein's hydrophobic core.
+* **Sequence Motifs and Domains:** Scans the primary sequence against signature databases (like PROSITE or InterPro) to locate specific consensus patterns, post-translational modification sites, or catalytic domains that correlate directly with biological function.
+* **Charge Distribution and Periodicity:** Maps the alternating patterns of positively charged (Lysine, Arginine) and negatively charged (Aspartate, Glutamate) residues, which drive the local electrostatic interactions and salt-bridge formations essential for maintaining structural integrity.
