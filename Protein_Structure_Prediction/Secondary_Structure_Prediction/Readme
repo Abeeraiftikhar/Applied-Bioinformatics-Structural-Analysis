@@ -1,1 +1,8 @@
+This folder contains the computational mapping and characterization of localized, regularly repeating structural arrangements along the protein backbone. It shifts the pipeline from a linear sequence toward a 3D architecture by using the state-of-the-art **PSIPRED** prediction engine to evaluate the propensity of specific amino acid regions to form stable, hydrogen-bonded local folds—classifying them into alpha-helices ($\alpha$), beta-strands ($\beta$), or flexible random coils ($C$).
 
+### 🧬 Key Elements Analyzed via PSIPRED
+
+* **Evolutionary Profile Incorporation (PSI-BLAST):** Utilizes Position-Specific Scoring Matrices (PSSMs) generated via iterative database searches to compare the target sequence against homologous protein families. This evolutionary weighting significantly enhances prediction accuracy compared to single-sequence methods.
+* **Conformational Propensity Mapping:** Computes the statistical likelihood of local residue windows adopting specific backbone dihedral angles ($\phi$ and $\psi$), bridging the gap between primary amino acid composition and actual spatial geometry.
+* **Secondary Element Composition & Topology:** Quantifies the exact percentages of structural types across the entire protein length (e.g., *Helix: 42%, Strand: 18%, Coil: 40%*). This allows for structural classification, helping to identify whether the target belongs to an all-alpha, all-beta, or mixed alpha/beta fold family.
+* **Prediction Confidence Calibration:** Analyzes PSIPRED's per-residue confidence scores (ranging from 0 to 9). By mapping these values, it isolates high-certainty core structural domains from highly flexible, disordered, or variable loop regions, providing a reliable roadmap for subsequent tertiary modeling.
