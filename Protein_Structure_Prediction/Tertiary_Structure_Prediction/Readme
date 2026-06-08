@@ -1,1 +1,8 @@
+This folder contains the computational generation and evaluation of the full three-dimensional spatial coordinates of target proteins. Moving beyond linear sequences and 2D topology, this phase utilizes the state-of-the-art **I-TASSER** (Iterative Threading ASSEmbly Refinement) server to predict the complete atomic landscape of the polypeptide chain, establishing the actual physical $X, Y, Z$ coordinates for every atom in the molecule.
 
+### 🧬 Key Elements Analyzed via I-TASSER
+
+* **Multi-Template LOMETS Threading:** Scans the target sequence against the RCSB Protein Data Bank (PDB) using a meta-threading approach (LOMETS) to identify structural templates. This allows for the recognition of structural homologs even when sequence identity is exceptionally low.
+* **Iterative Fragment Assembly:** Excises unaligned loop regions and flexible segments, reconstructing them using *ab initio* template-free modeling while preserving the rigid, high-confidence aligned core fragments. The structural fragments are iteratively assembled using replica-exchange Monte Carlo simulations.
+* **Confidence Evaluation (C-score & TM-score):** Assesses the global quality of the generated models using the **C-score** (typically in the range of $[-5, 2]$), where a higher value signifies a model with high confidence. It also estimates the **TM-score** and **RMSD** to predict the structural similarity between the predicted model and native experimental structures.
+* **Structure-Based Function Annotation:** Leverages the **COACH** protocol within the suite to compare the finalized 3D models against binding site databases, predicting potential ligand-binding residues, Enzyme Commission (EC) numbers, and Gene Ontology (GO) terms based on 3D spatial alignment.
