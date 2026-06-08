@@ -1,1 +1,10 @@
+Here is the comprehensive, highly detailed version for your **Physicochemical_Properties_Analysis** section, maintaining your clean and professional formatting style:
 
+This folder contains the quantitative computational profiling of the fundamental chemical, physical, and thermodynamic properties of target protein sequences derived directly from their primary amino acid chains. This analytical phase acts as the foundation of the structural prediction pipeline, translating a raw sequence string into an informative stability matrix that predicts how the protein will behave in both *in vitro* laboratory experiments and *in silico* molecular simulations before any higher-order folding structures are modeled.
+
+### 📊 Key Parameters Evaluated
+
+* **Molecular Weight & Theoretical Isoelectric Point ($pI$):** Determines the net overall mass and the exact pH environment where the protein carries a neutral net charge, which is highly critical for downstream purification protocols and electrophoretic separation modeling.
+* **Instability Index:** Computes a statistical weight based on dipeptide composition to predict whether a protein will remain stable in an experimental setting. A computed score below **40** classifies the structure as stable, while a score above 40 indicates potential structural instability and rapid degradation.
+* **Aliphatic Index:** Measures the relative volume of the protein occupied by aliphatic side chains (Alanine, Valine, Isoleucine, and Leucine), serving as a direct structural indicator of the protein's overall thermal stability across varying temperature ranges.
+* **Grand Average of Hydropathy (GRAVY):** Calculated by dividing the sum of the hydropathy values of all constituent amino acids by the absolute sequence length. Positive scores represent a globally hydrophobic nature (common in transmembrane proteins), while negative scores signify a hydrophilic, water-soluble nature (common in cytoplasmic proteins).
