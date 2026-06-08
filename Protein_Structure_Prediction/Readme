@@ -1,1 +1,36 @@
 
+This folder contains an integrated bioinformatics workflow covering physicochemical characterization, primary sequence profiling, secondary topology prediction, and tertiary structure modeling. The pipeline is used to translate linear sequence data into detailed 3D molecular structures to support downstream structural biology and computational docking investigations.
+
+📁 **Folder Structure**
+**Physicochemical_Properties_Analysis/**
+Calculation of fundamental physical and chemical metrics to determine protein stability, molecular weight, and charge behaviors.
+**Primary_Structure_Analysis/**
+Characterization of sequence composition trends and hydrophobicity vectors across the polypeptide chain.
+**Secondary_Structure_Prediction/**
+Mapping of local folding propensities to determine alpha-helix, beta-sheet, and random coil topologies.
+**Tertiary_Structure_Prediction/**
+Generation of 3D atomic coordinates using homology modeling or ab initio structural prediction methods.
+
+🔄 **Workflow**
+
+Physicochemical Profiling ➔ Hydropathy Mapping ➔ Secondary Element Prediction ➔ 3D Coordinate Assembly
+
+-Compute basic thermodynamic and stability metrics from raw sequence strings
+-Plot hydrophobic and hydrophilic residue distributions using sliding window averages
+-Predict localized backbone hydrogen-bonding networks and structural arrangements
+-Assemble full 3D atomic models (.pdb) ready for refinement and structural validation
+
+## 🛠️ Tools Used
+-ExPASy ProtParam / Biopython
+-Kyte-Doolittle Hydropathy Scale
+-PSIPRED Workbench / GOR IV
+-SWISS-MODEL / AlphaFold / I-TASSER
+-FASTA sequence format
+
+## 🎯 Objective
+
+This workflow helps in:
+-Determining if a protein model is stable enough for in vitro or computational studies.
+-Identifying potential transmembrane regions, signaling peptides, and buried hydrophobic cores.
+-Establishing a high-confidence structural baseline to guide secondary-to-tertiary folding logic.
+-Generating the initial, unrefined 3D structural assets required for downstream refinement pipelines.
