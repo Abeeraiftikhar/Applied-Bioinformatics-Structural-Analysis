@@ -56,10 +56,17 @@ Validation Suites: SAVES (PROCHECK, ERRAT, Verify3D)
 
 🧬 THE PRACTICAL WORKFLOW :
 1️⃣ Sequence Retrieval — NCBI & UniProt navigation , PDB
+
 2️⃣ Homology Search — Advanced BLASTp techniques
+
 3️⃣ Multiple Sequence Alignment (MSA) — Clustal Omega & MEGA
+
 4️⃣ Secondary Structure Prediction — PSIPRED mapping
+
 5️⃣ Tertiary Structure Modeling — I-TASSER
+
 6️⃣ Structure Refinement — Minimizing energy with GalaxyRefine
+
 7️⃣ Structure Validation — Mastering SAVES v6.0 (PROCHECK, ERRAT, Verify3D)
+
 8️⃣ Functional Insights — 3D visualization using PyMOL
