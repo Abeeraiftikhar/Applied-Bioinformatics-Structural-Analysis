@@ -54,7 +54,7 @@ Structure Tools: PSIPRED, I-TASSER / AlphaFold
 
 Validation Suites: SAVES (PROCHECK, ERRAT, Verify3D)
 
-🧬 THE PRACTICAL WORKFLOW :
+## 🧬 THE PRACTICAL WORKFLOW :
 1️⃣ Sequence Retrieval — NCBI & UniProt navigation , PDB
 
 2️⃣ Homology Search — Advanced BLASTp techniques
