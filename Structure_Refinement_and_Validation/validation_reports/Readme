@@ -1,1 +1,48 @@
 
+
+## 📊 Pre-Refinement Structural Validation Summary
+
+This section documents the baseline structural quality evaluation for the raw experimental data of **PDB ID: 2ZJQ** (Job #568900) before running it through the computational optimization pipeline.
+
+### 🔍 Comparative Benchmark Table
+
+| Validation Suite | Baseline Metric (Raw) | Target Threshold | Pipeline Status |
+| --- | --- | --- | --- |
+| **Verify3D** (3D-1D Profile) | **60.90%** | $\ge 80.0\%$ | **FAIL** ❌ |
+| **ERRAT** (Overall Quality Factor) | **51.41** | $> 85.0\%$ | **FAIL** ❌ |
+| **PROCHECK** (Ramachandran Core) | **56.5%** | $> 90.0\%$ | **CRITICAL ERROR** 🚨 |
+
+---
+
+### 📝 Detailed Tool Breakdowns
+
+#### 1. ERRAT Analysis (`image_1ce6f9.png`)
+
+* **Overall Quality Factor:** **51.4082**
+* **Analysis:** A normal, well-crystallized structure typically scores above 85%. The remarkably low score here indicates highly dense regions of non-bonded atomic interactions and structural mismatches across the multi-chain ribosomal complex.
+
+#### 2. PROCHECK Stereochemical Assessment (`image_1ce71d.png`)
+
+* **Ramachandran Plot Regions:**
+* Residues in Core Favored Regions: **56.5%** *(Critical outlier—ideal is >90%)*
+* Residues in Allowed Regions: **33.7%**
+* Residues in Generously Allowed Regions: **6.9%**
+* Residues in Disallowed Regions: **2.8%**
+
+
+* **Geometry & Packing Distortions:**
+* **Bad Contacts:** 515 atomic clashes identified.
+* **Flagged Status:** Severe system alerts issued for backbone geometry (`Ramachandran plot: Error`), side-chain configurations (`Side-chain params: Error`), and structural parameters (`Bond len/angle: Warning`).
+
+
+
+#### 3. Verify3D Environmental Match
+
+* **Score:** **60.90%** of amino acids scored $\ge 0.1$ in the 3D/1D profile.
+* **Analysis:** The sequence folding does not match its primary 3D environment cleanly, emphasizing structural distortions typical of lower-resolution (3.30 Å) data models.
+
+---
+
+### 🎯 Refinement Strategy
+
+The structural metrics gathered across all three validation suites conclusively establish that the raw configuration of **2ZJQ** is heavily unoptimized. The structural coordinates will now be passed into **GalaxyRefine** to execute global energy minimizations, repair the 515 steric bad contacts, and pull the backbone phi/psi angles out of the disallowed zones into the favored core.
