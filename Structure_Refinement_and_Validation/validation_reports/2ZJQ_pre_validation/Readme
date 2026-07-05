@@ -1,1 +1,7 @@
+Pre-Refinement Structural Validation Summary
+This section documents the baseline structural quality evaluation for the raw experimental data of PDB ID: 2ZJQ (Job #568900) before running it through the computational optimization pipeline.
 
+Validation Suite,Baseline Metric (Raw),Target Threshold,Pipeline Status
+Verify3D (3D-1D Profile),60.90%,≥80.0%,FAIL ❌
+ERRAT (Overall Quality Factor),51.41,>85.0%,FAIL ❌
+PROCHECK (Ramachandran Core),56.5%,>90.0%,CRITICAL ERROR 🚨
