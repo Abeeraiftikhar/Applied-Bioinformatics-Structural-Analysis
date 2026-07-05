@@ -39,20 +39,6 @@ Structure Validation
         ↓
 Functional Interpretation
 
-## Author & Mentor: Abeera Iftikhar
-
-Founder, BioCode Innovators
-
-Dedicated to bridging the gap between computational biology theory and hands-on research workflows.
-
-# Tools & Databases Covered
-Databases: NCBI, UniProt, 
-
-Sequence Alignment: BLAST, Clustal Omega / MEGA
-
-Structure Tools: PSIPRED, I-TASSER / AlphaFold
-
-Validation Suites: SAVES (PROCHECK, ERRAT, Verify3D)
 
 ## 🧬 THE PRACTICAL WORKFLOW :
 1️⃣ Sequence Retrieval — NCBI & UniProt navigation , PDB
@@ -70,3 +56,10 @@ Validation Suites: SAVES (PROCHECK, ERRAT, Verify3D)
 7️⃣ Structure Validation — Mastering SAVES v6.0 (PROCHECK, ERRAT, Verify3D)
 
 8️⃣ Functional Insights — 3D visualization using PyMOL
+
+
+## Author & Mentor: Abeera Iftikhar
+
+Founder, BioCode Innovators
+
+Dedicated to bridging the gap between computational biology theory and hands-on research workflows.
