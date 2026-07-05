@@ -1,1 +1,24 @@
 
+### 🧬 PDB Structure Profile: 1A3N
+
+* **Molecule Name:** Deoxy Human Hemoglobin (Adult Heterotetramer, $\alpha_2\beta_2$).
+* **Source Organism:** *Homo sapiens* (Human).
+* **Experimental Method:** X-Ray Diffraction.
+* **Resolution:** 1.80 Å.
+* **Functional Classification:** Oxygen Transport / Respiratory Protein.
+
+### 🔬 Structural Overview
+
+PDB 1A3N represents the classic **Tense (T-state)** or deoxygenated conformation of adult human hemoglobin. It is an allosteric heterotetramer consisting of four distinct polypeptide chains:
+
+* **Two Alpha Chains** (Chains A & C - 141 residues each).
+* **Two Beta Chains** (Chains B & D - 146 residues each).
+
+Each of the four subunits features a distinct "globin fold" dominated by $\alpha$-helices. Tucked within a hydrophobic pocket between the E and F helices of each subunit is a non-covalent **Protoporphyrin IX (Heme) group** containing a central coordination-bonded iron ($Fe^{2+}$) atom.
+
+### ⚙️ Biological Significance & Allostery
+
+In this deoxygenated T-state configuration, the macromolecule is constrained by a tight network of inter-subunit ionic interactions and salt bridges, locking it into a **low oxygen affinity** conformation. The central water cavity between the two $\alpha\beta$ dimers is expanded to structurally accommodate allosteric regulators like 2,3-BPG.
+
+
+
