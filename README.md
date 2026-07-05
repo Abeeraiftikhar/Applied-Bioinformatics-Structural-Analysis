@@ -38,3 +38,28 @@ Structure Refinement
 Structure Validation
         ↓
 Functional Interpretation
+
+## Author & Mentor: Abeera Iftikhar
+
+Founder, BioCode Innovators
+
+Dedicated to bridging the gap between computational biology theory and hands-on research workflows.
+
+# Tools & Databases Covered
+Databases: NCBI, UniProt, 
+
+Sequence Alignment: BLAST, Clustal Omega / MEGA
+
+Structure Tools: PSIPRED, I-TASSER / AlphaFold
+
+Validation Suites: SAVES (PROCHECK, ERRAT, Verify3D)
+
+🧬 THE PRACTICAL WORKFLOW :
+1️⃣ Sequence Retrieval — NCBI & UniProt navigation , PDB
+2️⃣ Homology Search — Advanced BLASTp techniques
+3️⃣ Multiple Sequence Alignment (MSA) — Clustal Omega & MEGA
+4️⃣ Secondary Structure Prediction — PSIPRED mapping
+5️⃣ Tertiary Structure Modeling — I-TASSER
+6️⃣ Structure Refinement — Minimizing energy with GalaxyRefine
+7️⃣ Structure Validation — Mastering SAVES v6.0 (PROCHECK, ERRAT, Verify3D)
+8️⃣ Functional Insights — 3D visualization using PyMOL
