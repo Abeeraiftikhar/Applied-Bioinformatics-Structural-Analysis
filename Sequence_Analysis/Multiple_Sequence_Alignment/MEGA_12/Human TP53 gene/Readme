@@ -1,0 +1,51 @@
+Folder: Human TP53 Gene Mega Session Alignment
+
+## 📁 Overview
+
+This folder contains a large-scale ("Mega Session") multiple sequence alignment (MSA) focused on the human **TP53 gene** (Tumor Protein p53). The dataset compiles a diverse array of sequencing data—spanning healthy wild-type variants, common somatic clinical mutations, global polymorphisms, and cross-species orthologs—aligned to map out genetic variability, functional conservation, and structural vulnerabilities within the genome’s primary tumor suppressor.
+
+---
+
+## 🧬 Biological Context: "The Guardian of the Genome"
+
+The **TP53** gene (located on chromosome 17p13.1) encodes a $53 \text{ kDa}$ nuclear phosphoprotein that functions as a homotetrameric transcription factor. Often referred to as **"the guardian of the genome,"** p53 integrates upstream cellular stress signals (such as DNA double-strand breaks, oncogene activation, and hypoxia) to dictate cell fate.
+
+When stress is detected, p53 coordinates key survival and defense mechanisms:
+
+* **Cell Cycle Arrest:** Upregulates $p21$ ($\text{WAF1/CIP1}$) to halt the cell cycle at the $G_1/S$ checkpoint, allowing time for DNA repair.
+* **DNA Repair:** Drives the expression of base excision and nucleotide excision repair pathways.
+* **Apoptosis & Senescence:** If genetic damage is irreparable, it induces programmed cell death via the $BAX$ and $PUMA$ pathways or forces permanent cellular senescence to block oncogenic replication.
+
+---
+
+## 🎯 Alignment Objectives & Key Elements
+
+This alignment session is structured to facilitate advanced downstream bioinformatics tasks, including variant benchmarking, evolutionary analysis, and structure-function modeling. Key areas highlighted across the alignment include:
+
+### 1. The Core DNA-Binding Domain (DBD)
+
+* **Coordinates:** Spans roughly codons 102 to 292.
+* **Significance:** This highly structured domain directly binds to targeted DNA consensus sequences and coordinates a critical structural structural zinc ion ($Zn^{2+}$). It is the ultimate hot spot for oncogenic inactivation.
+
+### 2. Mutation Hot Spots & Clinically Actionable Variants
+
+The alignment maps critical missense mutations frequently identified across more than 50% of all human cancers, as well as germline mutations responsible for **Li-Fraumeni Syndrome** (LFS). Key structural hotspots visually traceable in this session include:
+
+* **Contact Mutants:** Residues like **$\text{Arg}^{248}$** and **$\text{Arg}^{273}$** which physically interact with the DNA backbone.
+* **Structural Mutants:** Residues like **$\text{Arg}^{175}$**, **$\text{Gly}^{245}$**, **$\text{Arg}^{249}$**, and **$\text{Arg}^{282}$** which, when substituted, destabilize the tertiary structure or cause misfolding of the core scaffold.
+
+### 3. Alternative Isoform Tracking
+
+* Tracks alternative splicing variants and promoters (including $\alpha$, $\beta$, and $\gamma$ C-terminal truncations and $N$-terminally deleted variants like $\Delta 40$ and $\Delta 133$), mapping how structural alterations skew the protein’s dominant-negative and gain-of-function (GOF) oncogenic features.
+
+---
+
+## 🛠️ Technical Specifications & File Inventory
+
+* **Reference Genome:** GRCh38 / hg38 (`chr17:7,661,779-7,687,538`, minus strand).
+* **Reference Transcript:** NM_000546.6 (Canonical Variant 1).
+* **Supported Software:** Optimally configured for instant rendering in alignment browsers such as **Jalview**, **UGENE**, **MEGA11**, or web-based structural viewers like **Seshat**.
+* **File Types Included:**
+* `.fasta` / `.afa` (Raw and aligned nucleotide/amino acid sequences)
+* `.msf` / `.clustal` (Formatted multiple sequence alignment files)
+* `.meg` / `.session` (Native session files conserving color-coded annotation blocks for mutation frequencies, conservation scores, and secondary structure topologies)
