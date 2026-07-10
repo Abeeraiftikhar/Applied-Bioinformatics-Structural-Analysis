@@ -69,9 +69,6 @@ Founder & Lead Bioinformatic Instructor
 Bioinformatic Researcher 
 
 
----
-
-
 ## 🚀 Applied Bioinformatics Live Dashboard
 
 > Check the live framework: [Applied Bioinformatics Internship Dashboard](https://appliedbioinformaticsinternhip.lovable.app/)
