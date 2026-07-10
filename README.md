@@ -60,6 +60,8 @@ Functional Interpretation
 
 ## Author & Mentor: Abeera Iftikhar
 
-Founder, BioCode Innovators
+Founder & Lead Bioinformatic Instructor 
+
+Bioinformatic Researcher 
 
 Dedicated to bridging the gap between computational biology theory and hands-on research workflows.
