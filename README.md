@@ -9,6 +9,7 @@ This repository contains a complete practical workflow for structural bioinforma
 
 The project is designed as a hands-on implementation of computational structural biology concepts and focuses entirely on practical analysis workflows.
 
+
 ## Objectives
 
 - Retrieve biological sequences from public databases
@@ -18,6 +19,7 @@ The project is designed as a hands-on implementation of computational structural
 - Predict protein secondary and tertiary structures
 - Refine and validate predicted protein models
 - Interpret structural and functional relationships
+
 
 ## Workflow
 
@@ -40,6 +42,7 @@ Structure Validation
 Functional Interpretation
 
 
+
 ## 🧬 THE PRACTICAL WORKFLOW :
 1️⃣ Sequence Retrieval — NCBI & UniProt navigation , PDB
 
@@ -56,6 +59,7 @@ Functional Interpretation
 7️⃣ Structure Validation — Mastering SAVES v6.0 (PROCHECK, ERRAT, Verify3D)
 
 8️⃣ Functional Insights — 3D visualization using PyMOL
+
 
 
 ## Author & Mentor: Abeera Iftikhar
